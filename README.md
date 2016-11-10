@@ -12,3 +12,5 @@ Clean up & add real README later.
 Open terminal, type bash indexVideo.sh http://www.youtube.com/watch?v=RWsx1X8PV_A (or any other url)
 
 Once the script completes, an entry is created in DynamoDB under that URL, containing the JSON transcription of the audio.
+
+For a transcribed youtube url, run node sift.js url word, to get links to all occurences of that word in the video.

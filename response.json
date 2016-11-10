@@ -1,0 +1,7445 @@
+            {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "IBM's", 
+                     5.78, 
+                     6.3
+                  ], 
+                  [
+                     "Watson", 
+                     6.3, 
+                     6.72
+                  ], 
+                  [
+                     "is", 
+                     6.72, 
+                     6.87
+                  ], 
+                  [
+                     "at", 
+                     6.87, 
+                     6.99
+                  ], 
+                  [
+                     "the", 
+                     6.99, 
+                     7.08
+                  ], 
+                  [
+                     "forefront", 
+                     7.08, 
+                     7.72
+                  ], 
+                  [
+                     "of", 
+                     7.72, 
+                     7.81
+                  ], 
+                  [
+                     "a", 
+                     7.81, 
+                     7.86
+                  ], 
+                  [
+                     "new", 
+                     7.86, 
+                     8.1
+                  ], 
+                  [
+                     "era", 
+                     8.1, 
+                     8.44
+                  ], 
+                  [
+                     "of", 
+                     8.44, 
+                     8.63
+                  ], 
+                  [
+                     "computing", 
+                     8.63, 
+                     9.18
+                  ], 
+                  [
+                     "cognitive", 
+                     9.52, 
+                     10.08
+                  ], 
+                  [
+                     "computing", 
+                     10.08, 
+                     10.58
+                  ], 
+                  [
+                     "it's", 
+                     10.75, 
+                     10.93
+                  ], 
+                  [
+                     "a", 
+                     10.93, 
+                     10.98
+                  ], 
+                  [
+                     "radically", 
+                     10.98, 
+                     11.49
+                  ], 
+                  [
+                     "new", 
+                     11.49, 
+                     11.71
+                  ], 
+                  [
+                     "kind", 
+                     11.71, 
+                     11.99
+                  ], 
+                  [
+                     "of", 
+                     11.99, 
+                     12.1
+                  ], 
+                  [
+                     "computing", 
+                     12.1, 
+                     12.63
+                  ], 
+                  [
+                     "very", 
+                     12.86, 
+                     13.1
+                  ], 
+                  [
+                     "different", 
+                     13.1, 
+                     13.47
+                  ], 
+                  [
+                     "from", 
+                     13.47, 
+                     13.62
+                  ], 
+                  [
+                     "the", 
+                     13.62, 
+                     13.7
+                  ], 
+                  [
+                     "programmable", 
+                     13.7, 
+                     14.31
+                  ], 
+                  [
+                     "systems", 
+                     14.31, 
+                     14.79
+                  ], 
+                  [
+                     "that", 
+                     14.79, 
+                     14.94
+                  ], 
+                  [
+                     "preceded", 
+                     14.94, 
+                     15.38
+                  ], 
+                  [
+                     "it", 
+                     15.38, 
+                     15.57
+                  ], 
+                  [
+                     "as", 
+                     15.92, 
+                     16.1
+                  ], 
+                  [
+                     "different", 
+                     16.1, 
+                     16.42
+                  ], 
+                  [
+                     "as", 
+                     16.42, 
+                     16.55
+                  ], 
+                  [
+                     "those", 
+                     16.55, 
+                     16.81
+                  ], 
+                  [
+                     "systems", 
+                     16.81, 
+                     17.27
+                  ], 
+                  [
+                     "where", 
+                     17.27, 
+                     17.5
+                  ], 
+                  [
+                     "from", 
+                     17.5, 
+                     17.69
+                  ], 
+                  [
+                     "the", 
+                     17.69, 
+                     17.77
+                  ], 
+                  [
+                     "tabulating", 
+                     17.77, 
+                     18.4
+                  ], 
+                  [
+                     "machines", 
+                     18.4, 
+                     18.94
+                  ], 
+                  [
+                     "of", 
+                     18.94, 
+                     19.03
+                  ], 
+                  [
+                     "a", 
+                     19.03, 
+                     19.09
+                  ], 
+                  [
+                     "century", 
+                     19.09, 
+                     19.57
+                  ], 
+                  [
+                     "ago", 
+                     19.57, 
+                     19.98
+                  ], 
+                  [
+                     "conventional", 
+                     20.43, 
+                     20.98
+                  ], 
+                  [
+                     "computing", 
+                     20.98, 
+                     21.41
+                  ], 
+                  [
+                     "solutions", 
+                     21.41, 
+                     22.14
+                  ], 
+                  [
+                     "based", 
+                     22.31, 
+                     22.54
+                  ], 
+                  [
+                     "on", 
+                     22.54, 
+                     22.65
+                  ], 
+                  [
+                     "mathematical", 
+                     22.65, 
+                     23.28
+                  ], 
+                  [
+                     "principles", 
+                     23.28, 
+                     23.83
+                  ], 
+                  [
+                     "that", 
+                     23.83, 
+                     23.99
+                  ], 
+                  [
+                     "emanate", 
+                     23.99, 
+                     24.43
+                  ], 
+                  [
+                     "from", 
+                     24.43, 
+                     24.56
+                  ]
+               ], 
+               "confidence": 0.956, 
+               "transcript": "IBM's Watson is at the forefront of a new era of computing cognitive computing it's a radically new kind of computing very different from the programmable systems that preceded it as different as those systems where from the tabulating machines of a century ago conventional computing solutions based on mathematical principles that emanate from "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "team", 
+                     24.83, 
+                     25.05
+                  ], 
+                  [
+                     "for", 
+                     25.05, 
+                     25.32
+                  ]
+               ], 
+               "confidence": 0.711, 
+               "transcript": "team for "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     25.82, 
+                     25.85
+                  ], 
+                  [
+                     "program", 
+                     25.85, 
+                     26.39
+                  ], 
+                  [
+                     "to", 
+                     26.39, 
+                     26.49
+                  ]
+               ], 
+               "confidence": 0.591, 
+               "transcript": "a program to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "often", 
+                     31.37, 
+                     31.68
+                  ], 
+                  [
+                     "following", 
+                     31.68, 
+                     32.18
+                  ]
+               ], 
+               "confidence": 0.685, 
+               "transcript": "often following "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     32.35, 
+                     32.38
+                  ], 
+                  [
+                     "rigid", 
+                     32.38, 
+                     32.84
+                  ]
+               ], 
+               "confidence": 0.631, 
+               "transcript": "a rigid "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     34.05, 
+                     34.19
+                  ], 
+                  [
+                     "with", 
+                     34.19, 
+                     34.36
+                  ], 
+                  [
+                     "today's", 
+                     34.36, 
+                     34.78
+                  ], 
+                  [
+                     "well", 
+                     34.78, 
+                     34.91
+                  ]
+               ], 
+               "confidence": 0.876, 
+               "transcript": "but with today's well "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "big", 
+                     35.24, 
+                     35.46
+                  ], 
+                  [
+                     "day", 
+                     35.46, 
+                     35.65
+                  ]
+               ], 
+               "confidence": 0.621, 
+               "transcript": "big day "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     36.13, 
+                     36.3
+                  ], 
+                  [
+                     "the", 
+                     36.3, 
+                     36.37
+                  ], 
+                  [
+                     "need", 
+                     36.37, 
+                     36.63
+                  ], 
+                  [
+                     "for", 
+                     36.63, 
+                     36.77
+                  ], 
+                  [
+                     "more", 
+                     36.77, 
+                     36.9
+                  ]
+               ], 
+               "confidence": 0.549, 
+               "transcript": "and the need for more "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "fails", 
+                     41.62, 
+                     41.99
+                  ], 
+                  [
+                     "to", 
+                     41.99, 
+                     42.09
+                  ], 
+                  [
+                     "keep", 
+                     42.09, 
+                     42.22
+                  ]
+               ], 
+               "confidence": 0.662, 
+               "transcript": "fails to keep "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "cognitive", 
+                     44.35, 
+                     44.79
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "cognitive "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     46.93, 
+                     46.98
+                  ], 
+                  [
+                     "new", 
+                     46.98, 
+                     47.22
+                  ], 
+                  [
+                     "kind", 
+                     47.22, 
+                     47.5
+                  ]
+               ], 
+               "confidence": 0.936, 
+               "transcript": "a new kind "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "finding", 
+                     48.25, 
+                     48.6
+                  ], 
+                  [
+                     "answers", 
+                     48.6, 
+                     49.02
+                  ], 
+                  [
+                     "and", 
+                     49.02, 
+                     49.15
+                  ], 
+                  [
+                     "insights", 
+                     49.15, 
+                     49.53
+                  ]
+               ], 
+               "confidence": 0.676, 
+               "transcript": "finding answers and insights "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "dewayne", 
+                     49.91, 
+                     50.3
+                  ], 
+                  [
+                     "volumes", 
+                     50.3, 
+                     50.8
+                  ], 
+                  [
+                     "of", 
+                     50.8, 
+                     50.91
+                  ], 
+                  [
+                     "data", 
+                     50.91, 
+                     51.32
+                  ]
+               ], 
+               "confidence": 0.731, 
+               "transcript": "dewayne volumes of data "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "whether", 
+                     52.11, 
+                     52.37
+                  ], 
+                  [
+                     "we", 
+                     52.37, 
+                     52.49
+                  ], 
+                  [
+                     "consider", 
+                     52.49, 
+                     52.91
+                  ], 
+                  [
+                     "a", 
+                     52.91, 
+                     53.01
+                  ], 
+                  [
+                     "doc", 
+                     53.01, 
+                     53.24
+                  ]
+               ], 
+               "confidence": 0.901, 
+               "transcript": "whether we consider a doc "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     54.82, 
+                     54.92
+                  ], 
+                  [
+                     "wealth", 
+                     54.92, 
+                     55.22
+                  ], 
+                  [
+                     "managers", 
+                     55.22, 
+                     55.74
+                  ]
+               ], 
+               "confidence": 0.378, 
+               "transcript": "the wealth managers "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "fully", 
+                     57.63, 
+                     58.08
+                  ], 
+                  [
+                     "or", 
+                     58.24, 
+                     58.38
+                  ], 
+                  [
+                     "even", 
+                     58.38, 
+                     58.72
+                  ], 
+                  [
+                     "a", 
+                     58.72, 
+                     58.77
+                  ], 
+                  [
+                     "shower", 
+                     58.77, 
+                     59.09
+                  ]
+               ], 
+               "confidence": 0.565, 
+               "transcript": "fully or even a shower "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "creating", 
+                     59.19, 
+                     59.57
+                  ], 
+                  [
+                     "a", 
+                     59.57, 
+                     59.62
+                  ], 
+                  [
+                     "new", 
+                     59.62, 
+                     59.84
+                  ], 
+                  [
+                     "recipe", 
+                     59.84, 
+                     60.23
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "creating a new recipe "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "they", 
+                     60.57, 
+                     60.7
+                  ], 
+                  [
+                     "need", 
+                     60.7, 
+                     60.94
+                  ], 
+                  [
+                     "new", 
+                     60.94, 
+                     61.16
+                  ], 
+                  [
+                     "approaches", 
+                     61.16, 
+                     61.77
+                  ]
+               ], 
+               "confidence": 0.897, 
+               "transcript": "they need new approaches "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "put", 
+                     61.87, 
+                     62.02
+                  ], 
+                  [
+                     "into", 
+                     62.02, 
+                     62.23
+                  ], 
+                  [
+                     "context", 
+                     62.23, 
+                     62.75
+                  ]
+               ], 
+               "confidence": 0.663, 
+               "transcript": "put into context "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "volume", 
+                     63.05, 
+                     63.48
+                  ], 
+                  [
+                     "of", 
+                     63.48, 
+                     63.62
+                  ], 
+                  [
+                     "information", 
+                     63.62, 
+                     64.3
+                  ]
+               ], 
+               "confidence": 0.995, 
+               "transcript": "volume of information "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "deal", 
+                     64.5, 
+                     64.73
+                  ], 
+                  [
+                     "with", 
+                     64.73, 
+                     65.03
+                  ]
+               ], 
+               "confidence": 0.958, 
+               "transcript": "deal with "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "daily", 
+                     65.36, 
+                     65.59
+                  ], 
+                  [
+                     "basis", 
+                     65.59, 
+                     66.19
+                  ], 
+                  [
+                     "in", 
+                     66.22, 
+                     66.37
+                  ], 
+                  [
+                     "order", 
+                     66.37, 
+                     66.65
+                  ], 
+                  [
+                     "to", 
+                     66.65, 
+                     66.76
+                  ], 
+                  [
+                     "derive", 
+                     66.76, 
+                     67.0
+                  ]
+               ], 
+               "confidence": 0.904, 
+               "transcript": "daily basis in order to derive "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     68.11, 
+                     68.33
+                  ], 
+                  [
+                     "process", 
+                     68.33, 
+                     68.83
+                  ], 
+                  [
+                     "serves", 
+                     68.83, 
+                     69.17
+                  ], 
+                  [
+                     "to", 
+                     69.17, 
+                     69.29
+                  ], 
+                  [
+                     "any", 
+                     69.29, 
+                     69.4
+                  ]
+               ], 
+               "confidence": 0.635, 
+               "transcript": "this process serves to any "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "human", 
+                     69.71, 
+                     69.95
+                  ], 
+                  [
+                     "next", 
+                     69.95, 
+                     70.18
+                  ]
+               ], 
+               "confidence": 0.678, 
+               "transcript": "human next "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     71.02, 
+                     71.48
+                  ], 
+                  [
+                     "and", 
+                     71.48, 
+                     71.68
+                  ], 
+                  [
+                     "its", 
+                     71.68, 
+                     71.82
+                  ], 
+                  [
+                     "cognitive", 
+                     71.82, 
+                     72.34
+                  ]
+               ], 
+               "confidence": 0.97, 
+               "transcript": "Watson and its cognitive "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "abilities", 
+                     72.56, 
+                     73.16
+                  ], 
+                  [
+                     "near", 
+                     73.19, 
+                     73.41
+                  ], 
+                  [
+                     "some", 
+                     73.41, 
+                     73.68
+                  ], 
+                  [
+                     "of", 
+                     73.68, 
+                     73.81
+                  ], 
+                  [
+                     "the", 
+                     73.81, 
+                     73.9
+                  ], 
+                  [
+                     "key", 
+                     73.9, 
+                     74.13
+                  ]
+               ], 
+               "confidence": 0.858, 
+               "transcript": "abilities near some of the key "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "elements", 
+                     74.73, 
+                     75.17
+                  ]
+               ], 
+               "confidence": 0.854, 
+               "transcript": "elements "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "few", 
+                     75.3, 
+                     75.5
+                  ], 
+                  [
+                     "minutes", 
+                     75.5, 
+                     75.81
+                  ]
+               ], 
+               "confidence": 0.214, 
+               "transcript": "few minutes "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "systems", 
+                     76.65, 
+                     77.14
+                  ], 
+                  [
+                     "that", 
+                     77.14, 
+                     77.32
+                  ], 
+                  [
+                     "reason", 
+                     77.32, 
+                     77.62
+                  ], 
+                  [
+                     "about", 
+                     77.62, 
+                     77.91
+                  ], 
+                  [
+                     "problems", 
+                     77.91, 
+                     78.36
+                  ], 
+                  [
+                     "like", 
+                     78.36, 
+                     78.57
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "systems that reason about problems like "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "human", 
+                     78.65, 
+                     78.99
+                  ], 
+                  [
+                     "does", 
+                     78.99, 
+                     79.38
+                  ]
+               ], 
+               "confidence": 0.78, 
+               "transcript": "human does "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "when", 
+                     79.59, 
+                     79.75
+                  ], 
+                  [
+                     "we", 
+                     79.75, 
+                     79.93
+                  ], 
+                  [
+                     "as", 
+                     79.93, 
+                     80.11
+                  ], 
+                  [
+                     "humans", 
+                     80.11, 
+                     80.52
+                  ], 
+                  [
+                     "see", 
+                     80.52, 
+                     80.7
+                  ]
+               ], 
+               "confidence": 0.643, 
+               "transcript": "when we as humans see "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     80.87, 
+                     80.9
+                  ], 
+                  [
+                     "understand", 
+                     80.9, 
+                     81.46
+                  ], 
+                  [
+                     "some", 
+                     81.46, 
+                     81.69
+                  ]
+               ], 
+               "confidence": 0.909, 
+               "transcript": "I understand some "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     83.21, 
+                     83.32
+                  ], 
+                  [
+                     "go", 
+                     83.32, 
+                     83.49
+                  ], 
+                  [
+                     "through", 
+                     83.49, 
+                     83.67
+                  ], 
+                  [
+                     "four", 
+                     83.67, 
+                     84.02
+                  ], 
+                  [
+                     "key", 
+                     84.02, 
+                     84.31
+                  ]
+               ], 
+               "confidence": 0.811, 
+               "transcript": "we go through four key "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "first", 
+                     85.08, 
+                     85.63
+                  ], 
+                  [
+                     "we", 
+                     85.77, 
+                     85.88
+                  ], 
+                  [
+                     "observed", 
+                     85.88, 
+                     86.3
+                  ], 
+                  [
+                     "visible", 
+                     86.3, 
+                     86.72
+                  ], 
+                  [
+                     "for", 
+                     86.72, 
+                     86.87
+                  ], 
+                  [
+                     "not", 
+                     86.87, 
+                     87.01
+                  ]
+               ], 
+               "confidence": 0.862, 
+               "transcript": "first we observed visible for not "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     89.44, 
+                     89.52
+                  ], 
+                  [
+                     "try", 
+                     89.52, 
+                     89.78
+                  ], 
+                  [
+                     "and", 
+                     89.78, 
+                     89.9
+                  ], 
+                  [
+                     "what", 
+                     89.9, 
+                     90.08
+                  ], 
+                  [
+                     "we", 
+                     90.08, 
+                     90.21
+                  ], 
+                  [
+                     "know", 
+                     90.21, 
+                     90.58
+                  ], 
+                  [
+                     "to", 
+                     90.58, 
+                     90.81
+                  ]
+               ], 
+               "confidence": 0.797, 
+               "transcript": "we try and what we know to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "what", 
+                     91.24, 
+                     91.41
+                  ], 
+                  [
+                     "were", 
+                     91.41, 
+                     91.53
+                  ], 
+                  [
+                     "seen", 
+                     91.53, 
+                     92.04
+                  ], 
+                  [
+                     "to", 
+                     92.11, 
+                     92.26
+                  ], 
+                  [
+                     "generate", 
+                     92.26, 
+                     92.68
+                  ], 
+                  [
+                     "hypotheses", 
+                     92.68, 
+                     93.29
+                  ]
+               ], 
+               "confidence": 0.858, 
+               "transcript": "what were seen to generate hypotheses "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "what", 
+                     93.64, 
+                     93.88
+                  ], 
+                  [
+                     "it", 
+                     93.88, 
+                     93.98
+                  ], 
+                  [
+                     "means", 
+                     93.98, 
+                     94.53
+                  ]
+               ], 
+               "confidence": 0.993, 
+               "transcript": "what it means "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "third", 
+                     95.49, 
+                     95.94
+                  ], 
+                  [
+                     "we", 
+                     96.22, 
+                     96.35
+                  ], 
+                  [
+                     "evaluate", 
+                     96.35, 
+                     96.97
+                  ], 
+                  [
+                     "which", 
+                     96.97, 
+                     97.17
+                  ], 
+                  [
+                     "had", 
+                     97.17, 
+                     97.31
+                  ], 
+                  [
+                     "popped", 
+                     97.31, 
+                     97.54
+                  ]
+               ], 
+               "confidence": 0.833, 
+               "transcript": "third we evaluate which had popped "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "right", 
+                     98.1, 
+                     98.45
+                  ]
+               ], 
+               "confidence": 0.985, 
+               "transcript": "right "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "or", 
+                     98.66, 
+                     98.82
+                  ], 
+                  [
+                     "wrong", 
+                     98.82, 
+                     99.14
+                  ], 
+                  [
+                     "finally", 
+                     99.61, 
+                     100.25
+                  ], 
+                  [
+                     "we", 
+                     100.5, 
+                     100.63
+                  ], 
+                  [
+                     "just", 
+                     100.63, 
+                     100.88
+                  ]
+               ], 
+               "confidence": 0.686, 
+               "transcript": "or wrong finally we just "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "choosing", 
+                     101.39, 
+                     101.75
+                  ], 
+                  [
+                     "the", 
+                     101.75, 
+                     101.87
+                  ], 
+                  [
+                     "option", 
+                     101.87, 
+                     102.24
+                  ]
+               ], 
+               "confidence": 0.856, 
+               "transcript": "choosing the option "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "accordingly", 
+                     103.63, 
+                     104.22
+                  ]
+               ], 
+               "confidence": 0.99, 
+               "transcript": "accordingly "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "just", 
+                     104.57, 
+                     104.85
+                  ], 
+                  [
+                     "as", 
+                     104.85, 
+                     104.95
+                  ], 
+                  [
+                     "humans", 
+                     104.95, 
+                     105.3
+                  ], 
+                  [
+                     "become", 
+                     105.3, 
+                     105.64
+                  ], 
+                  [
+                     "experts", 
+                     105.64, 
+                     106.17
+                  ], 
+                  [
+                     "by", 
+                     106.17, 
+                     106.34
+                  ], 
+                  [
+                     "going", 
+                     106.34, 
+                     106.63
+                  ], 
+                  [
+                     "through", 
+                     106.63, 
+                     106.78
+                  ], 
+                  [
+                     "the", 
+                     106.78, 
+                     106.87
+                  ], 
+                  [
+                     "process", 
+                     106.87, 
+                     107.36
+                  ], 
+                  [
+                     "of", 
+                     107.36, 
+                     107.51
+                  ], 
+                  [
+                     "observation", 
+                     107.54, 
+                     108.36
+                  ], 
+                  [
+                     "evaluation", 
+                     108.4, 
+                     109.24
+                  ], 
+                  [
+                     "and", 
+                     109.24, 
+                     109.43
+                  ], 
+                  [
+                     "decision", 
+                     109.43, 
+                     109.84
+                  ], 
+                  [
+                     "making", 
+                     109.84, 
+                     110.21
+                  ], 
+                  [
+                     "cognitive", 
+                     110.48, 
+                     111.02
+                  ]
+               ], 
+               "confidence": 0.935, 
+               "transcript": "just as humans become experts by going through the process of observation evaluation and decision making cognitive "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "systems", 
+                     111.19, 
+                     111.48
+                  ], 
+                  [
+                     "like", 
+                     111.48, 
+                     111.67
+                  ], 
+                  [
+                     "Watson", 
+                     111.67, 
+                     112.13
+                  ]
+               ], 
+               "confidence": 0.629, 
+               "transcript": "systems like Watson "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you", 
+                     112.34, 
+                     112.46
+                  ], 
+                  [
+                     "similar", 
+                     112.46, 
+                     112.89
+                  ], 
+                  [
+                     "processes", 
+                     112.89, 
+                     113.57
+                  ], 
+                  [
+                     "to", 
+                     113.57, 
+                     113.69
+                  ], 
+                  [
+                     "reason", 
+                     113.69, 
+                     114.02
+                  ], 
+                  [
+                     "about", 
+                     114.02, 
+                     114.28
+                  ], 
+                  [
+                     "the", 
+                     114.28, 
+                     114.38
+                  ]
+               ], 
+               "confidence": 0.636, 
+               "transcript": "you similar processes to reason about the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "amazing", 
+                     114.64, 
+                     115.03
+                  ]
+               ], 
+               "confidence": 0.216, 
+               "transcript": "amazing "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "read", 
+                     115.24, 
+                     115.52
+                  ], 
+                  [
+                     "Watson", 
+                     115.81, 
+                     116.16
+                  ], 
+                  [
+                     "can", 
+                     116.16, 
+                     116.35
+                  ], 
+                  [
+                     "also", 
+                     116.35, 
+                     116.7
+                  ], 
+                  [
+                     "do", 
+                     116.7, 
+                     116.88
+                  ], 
+                  [
+                     "this", 
+                     116.88, 
+                     117.11
+                  ], 
+                  [
+                     "at", 
+                     117.11, 
+                     117.26
+                  ], 
+                  [
+                     "massive", 
+                     117.26, 
+                     117.74
+                  ]
+               ], 
+               "confidence": 0.78, 
+               "transcript": "read Watson can also do this at massive "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "so", 
+                     118.73, 
+                     118.96
+                  ], 
+                  [
+                     "how", 
+                     118.96, 
+                     119.17
+                  ], 
+                  [
+                     "does", 
+                     119.17, 
+                     119.36
+                  ], 
+                  [
+                     "Watson", 
+                     119.36, 
+                     119.77
+                  ], 
+                  [
+                     "do", 
+                     119.77, 
+                     120.0
+                  ], 
+                  [
+                     "it", 
+                     120.0, 
+                     120.2
+                  ], 
+                  [
+                     "unlike", 
+                     120.45, 
+                     120.91
+                  ], 
+                  [
+                     "conventional", 
+                     120.91, 
+                     121.46
+                  ], 
+                  [
+                     "approaches", 
+                     121.46, 
+                     121.95
+                  ]
+               ], 
+               "confidence": 0.901, 
+               "transcript": "so how does Watson do it unlike conventional approaches "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you", 
+                     122.83, 
+                     122.9
+                  ], 
+                  [
+                     "can", 
+                     122.9, 
+                     123.06
+                  ], 
+                  [
+                     "only", 
+                     123.06, 
+                     123.43
+                  ], 
+                  [
+                     "handle", 
+                     123.43, 
+                     123.75
+                  ], 
+                  [
+                     "neatly", 
+                     123.75, 
+                     124.14
+                  ], 
+                  [
+                     "organized", 
+                     124.14, 
+                     124.65
+                  ]
+               ], 
+               "confidence": 0.828, 
+               "transcript": "you can only handle neatly organized "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "what", 
+                     126.03, 
+                     126.17
+                  ], 
+                  [
+                     "is", 
+                     126.17, 
+                     126.26
+                  ], 
+                  [
+                     "stored", 
+                     126.26, 
+                     126.52
+                  ], 
+                  [
+                     "in", 
+                     126.52, 
+                     126.6
+                  ], 
+                  [
+                     "a", 
+                     126.6, 
+                     126.67
+                  ], 
+                  [
+                     "database", 
+                     126.67, 
+                     127.37
+                  ], 
+                  [
+                     "Watson", 
+                     127.44, 
+                     127.81
+                  ], 
+                  [
+                     "can", 
+                     127.81, 
+                     127.98
+                  ], 
+                  [
+                     "understand", 
+                     127.98, 
+                     128.56
+                  ], 
+                  [
+                     "unstrung", 
+                     128.59, 
+                     129.04
+                  ]
+               ], 
+               "confidence": 0.784, 
+               "transcript": "what is stored in a database Watson can understand unstrung "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "eighty", 
+                     130.05, 
+                     130.24
+                  ], 
+                  [
+                     "percent", 
+                     130.24, 
+                     130.57
+                  ]
+               ], 
+               "confidence": 0.992, 
+               "transcript": "eighty percent "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "data", 
+                     130.71, 
+                     130.93
+                  ], 
+                  [
+                     "today", 
+                     130.93, 
+                     131.19
+                  ]
+               ], 
+               "confidence": 0.6, 
+               "transcript": "data today "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "all", 
+                     131.62, 
+                     131.83
+                  ], 
+                  [
+                     "of", 
+                     131.83, 
+                     131.91
+                  ], 
+                  [
+                     "the", 
+                     131.91, 
+                     132.02
+                  ], 
+                  [
+                     "information", 
+                     132.02, 
+                     132.59
+                  ], 
+                  [
+                     "that", 
+                     132.59, 
+                     132.72
+                  ]
+               ], 
+               "confidence": 0.97, 
+               "transcript": "all of the information that "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "primarily", 
+                     133.25, 
+                     133.87
+                  ], 
+                  [
+                     "by", 
+                     133.87, 
+                     134.11
+                  ]
+               ], 
+               "confidence": 0.989, 
+               "transcript": "primarily by "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     136.31, 
+                     136.54
+                  ], 
+                  [
+                     "includes", 
+                     136.54, 
+                     136.94
+                  ], 
+                  [
+                     "everything", 
+                     136.94, 
+                     137.36
+                  ], 
+                  [
+                     "from", 
+                     137.36, 
+                     137.57
+                  ], 
+                  [
+                     "literature", 
+                     137.57, 
+                     138.23
+                  ], 
+                  [
+                     "art", 
+                     138.26, 
+                     138.46
+                  ]
+               ], 
+               "confidence": 0.934, 
+               "transcript": "this includes everything from literature art "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "goals", 
+                     138.55, 
+                     138.99
+                  ], 
+                  [
+                     "research", 
+                     139.08, 
+                     139.48
+                  ]
+               ], 
+               "confidence": 0.7, 
+               "transcript": "goals research "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "ports", 
+                     139.59, 
+                     140.12
+                  ]
+               ], 
+               "confidence": 0.295, 
+               "transcript": "ports "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "blogs", 
+                     140.34, 
+                     140.91
+                  ]
+               ], 
+               "confidence": 0.45, 
+               "transcript": "blogs "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "posts", 
+                     141.02, 
+                     141.57
+                  ]
+               ], 
+               "confidence": 0.756, 
+               "transcript": "posts "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "well", 
+                     142.62, 
+                     142.79
+                  ], 
+                  [
+                     "structured", 
+                     142.79, 
+                     143.27
+                  ], 
+                  [
+                     "data", 
+                     143.27, 
+                     143.53
+                  ], 
+                  [
+                     "is", 
+                     143.53, 
+                     143.68
+                  ], 
+                  [
+                     "governed", 
+                     143.68, 
+                     144.04
+                  ], 
+                  [
+                     "by", 
+                     144.04, 
+                     144.17
+                  ], 
+                  [
+                     "well", 
+                     144.17, 
+                     144.41
+                  ], 
+                  [
+                     "defined", 
+                     144.41, 
+                     144.74
+                  ]
+               ], 
+               "confidence": 0.877, 
+               "transcript": "well structured data is governed by well defined "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "feels", 
+                     144.83, 
+                     145.22
+                  ], 
+                  [
+                     "that", 
+                     145.22, 
+                     145.36
+                  ], 
+                  [
+                     "contain", 
+                     145.36, 
+                     145.71
+                  ], 
+                  [
+                     "well", 
+                     145.71, 
+                     145.94
+                  ], 
+                  [
+                     "specified", 
+                     145.94, 
+                     146.57
+                  ], 
+                  [
+                     "information", 
+                     146.57, 
+                     147.07
+                  ]
+               ], 
+               "confidence": 0.784, 
+               "transcript": "feels that contain well specified information "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     147.44, 
+                     147.79
+                  ], 
+                  [
+                     "relies", 
+                     147.79, 
+                     148.23
+                  ], 
+                  [
+                     "on", 
+                     148.23, 
+                     148.31
+                  ]
+               ], 
+               "confidence": 0.503, 
+               "transcript": "Watson relies on "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "language", 
+                     148.85, 
+                     149.34
+                  ]
+               ], 
+               "confidence": 0.975, 
+               "transcript": "language "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "rules", 
+                     150.2, 
+                     150.59
+                  ], 
+                  [
+                     "of", 
+                     150.59, 
+                     150.71
+                  ]
+               ], 
+               "confidence": 0.96, 
+               "transcript": "rules of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it's", 
+                     152.98, 
+                     153.08
+                  ], 
+                  [
+                     "implicit", 
+                     153.08, 
+                     153.72
+                  ], 
+                  [
+                     "ambiguous", 
+                     153.8, 
+                     154.68
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "it's implicit ambiguous "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     155.73, 
+                     155.76
+                  ], 
+                  [
+                     "challenge", 
+                     155.76, 
+                     156.22
+                  ], 
+                  [
+                     "to", 
+                     156.22, 
+                     156.34
+                  ], 
+                  [
+                     "process", 
+                     156.34, 
+                     157.01
+                  ], 
+                  [
+                     "all", 
+                     157.31, 
+                     157.51
+                  ], 
+                  [
+                     "human", 
+                     157.51, 
+                     157.86
+                  ], 
+                  [
+                     "languages", 
+                     157.86, 
+                     158.42
+                  ], 
+                  [
+                     "did", 
+                     158.42, 
+                     158.58
+                  ]
+               ], 
+               "confidence": 0.778, 
+               "transcript": "a challenge to process all human languages did "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "certain", 
+                     159.52, 
+                     160.02
+                  ], 
+                  [
+                     "idioms", 
+                     160.07, 
+                     160.55
+                  ], 
+                  [
+                     "comedic", 
+                     160.55, 
+                     160.92
+                  ]
+               ], 
+               "confidence": 0.707, 
+               "transcript": "certain idioms comedic "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "in", 
+                     162.15, 
+                     162.31
+                  ], 
+                  [
+                     "English", 
+                     162.31, 
+                     162.75
+                  ], 
+                  [
+                     "for", 
+                     162.75, 
+                     162.91
+                  ]
+               ], 
+               "confidence": 0.776, 
+               "transcript": "in English for "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     163.65, 
+                     163.77
+                  ], 
+                  [
+                     "can", 
+                     163.77, 
+                     163.89
+                  ], 
+                  [
+                     "feel", 
+                     163.89, 
+                     164.1
+                  ], 
+                  [
+                     "blue", 
+                     164.1, 
+                     164.42
+                  ], 
+                  [
+                     "because", 
+                     164.42, 
+                     164.77
+                  ], 
+                  [
+                     "it's", 
+                     164.77, 
+                     164.91
+                  ], 
+                  [
+                     "raining", 
+                     164.91, 
+                     165.3
+                  ], 
+                  [
+                     "cats", 
+                     165.3, 
+                     165.66
+                  ]
+               ], 
+               "confidence": 0.906, 
+               "transcript": "we can feel blue because it's raining cats "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "well", 
+                     166.34, 
+                     166.5
+                  ], 
+                  [
+                     "we're", 
+                     166.5, 
+                     166.59
+                  ], 
+                  [
+                     "filling", 
+                     166.59, 
+                     166.93
+                  ], 
+                  [
+                     "uniforms", 
+                     166.93, 
+                     167.62
+                  ]
+               ], 
+               "confidence": 0.392, 
+               "transcript": "well we're filling uniforms "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "asked", 
+                     167.84, 
+                     168.26
+                  ]
+               ], 
+               "confidence": 0.467, 
+               "transcript": "asked "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "fill", 
+                     168.49, 
+                     168.65
+                  ], 
+                  [
+                     "out", 
+                     168.65, 
+                     169.07
+                  ]
+               ], 
+               "confidence": 0.898, 
+               "transcript": "fill out "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "when", 
+                     169.33, 
+                     169.45
+                  ], 
+                  [
+                     "it", 
+                     169.45, 
+                     169.54
+                  ], 
+                  [
+                     "comes", 
+                     169.54, 
+                     169.82
+                  ], 
+                  [
+                     "to", 
+                     169.82, 
+                     169.92
+                  ], 
+                  [
+                     "tax", 
+                     169.92, 
+                     170.35
+                  ], 
+                  [
+                     "Watson", 
+                     170.58, 
+                     170.99
+                  ], 
+                  [
+                     "doesn't", 
+                     170.99, 
+                     171.32
+                  ], 
+                  [
+                     "just", 
+                     171.32, 
+                     171.58
+                  ], 
+                  [
+                     "look", 
+                     171.58, 
+                     171.74
+                  ]
+               ], 
+               "confidence": 0.752, 
+               "transcript": "when it comes to tax Watson doesn't just look "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "keyword", 
+                     171.9, 
+                     172.33
+                  ], 
+                  [
+                     "match", 
+                     172.33, 
+                     172.55
+                  ]
+               ], 
+               "confidence": 0.362, 
+               "transcript": "keyword match "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "synonyms", 
+                     172.84, 
+                     173.41
+                  ], 
+                  [
+                     "like", 
+                     173.44, 
+                     173.59
+                  ], 
+                  [
+                     "a", 
+                     173.59, 
+                     173.63
+                  ], 
+                  [
+                     "search", 
+                     173.63, 
+                     173.94
+                  ], 
+                  [
+                     "engine", 
+                     173.94, 
+                     174.3
+                  ], 
+                  [
+                     "it", 
+                     174.49, 
+                     174.61
+                  ], 
+                  [
+                     "actually", 
+                     174.61, 
+                     175.0
+                  ], 
+                  [
+                     "reads", 
+                     175.0, 
+                     175.42
+                  ], 
+                  [
+                     "it", 
+                     175.42, 
+                     175.52
+                  ], 
+                  [
+                     "and", 
+                     175.52, 
+                     175.66
+                  ], 
+                  [
+                     "turn", 
+                     175.66, 
+                     175.84
+                  ]
+               ], 
+               "confidence": 0.826, 
+               "transcript": "synonyms like a search engine it actually reads it and turn "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it", 
+                     177.36, 
+                     177.53
+                  ], 
+                  [
+                     "does", 
+                     177.53, 
+                     177.81
+                  ], 
+                  [
+                     "this", 
+                     177.81, 
+                     178.09
+                  ], 
+                  [
+                     "by", 
+                     178.09, 
+                     178.24
+                  ], 
+                  [
+                     "breaking", 
+                     178.24, 
+                     178.62
+                  ], 
+                  [
+                     "down", 
+                     178.62, 
+                     178.8
+                  ], 
+                  [
+                     "a", 
+                     178.8, 
+                     178.87
+                  ], 
+                  [
+                     "cent", 
+                     178.87, 
+                     179.13
+                  ]
+               ], 
+               "confidence": 0.889, 
+               "transcript": "it does this by breaking down a cent "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Klay", 
+                     179.82, 
+                     180.1
+                  ], 
+                  [
+                     "relations", 
+                     180.2, 
+                     180.76
+                  ]
+               ], 
+               "confidence": 0.341, 
+               "transcript": "Klay relations "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "really", 
+                     181.67, 
+                     181.94
+                  ]
+               ], 
+               "confidence": 0.425, 
+               "transcript": "really "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "turning", 
+                     182.29, 
+                     182.62
+                  ], 
+                  [
+                     "meaning", 
+                     182.62, 
+                     182.95
+                  ], 
+                  [
+                     "from", 
+                     182.95, 
+                     183.18
+                  ]
+               ], 
+               "confidence": 0.649, 
+               "transcript": "turning meaning from "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "semantics", 
+                     183.31, 
+                     183.89
+                  ], 
+                  [
+                     "of", 
+                     183.89, 
+                     183.97
+                  ], 
+                  [
+                     "the", 
+                     183.97, 
+                     184.07
+                  ], 
+                  [
+                     "written", 
+                     184.07, 
+                     184.37
+                  ], 
+                  [
+                     "material", 
+                     184.37, 
+                     184.95
+                  ]
+               ], 
+               "confidence": 0.816, 
+               "transcript": "semantics of the written material "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     185.2, 
+                     185.58
+                  ], 
+                  [
+                     "understands", 
+                     185.58, 
+                     186.22
+                  ]
+               ], 
+               "confidence": 0.904, 
+               "transcript": "Watson understands "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     186.97, 
+                     187.15
+                  ], 
+                  [
+                     "is", 
+                     187.15, 
+                     187.28
+                  ], 
+                  [
+                     "very", 
+                     187.28, 
+                     187.57
+                  ], 
+                  [
+                     "different", 
+                     187.57, 
+                     187.96
+                  ], 
+                  [
+                     "things", 
+                     187.96, 
+                     188.13
+                  ]
+               ], 
+               "confidence": 0.932, 
+               "transcript": "this is very different things "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "how", 
+                     189.87, 
+                     190.03
+                  ], 
+                  [
+                     "computer", 
+                     190.03, 
+                     190.56
+                  ], 
+                  [
+                     "trance", 
+                     190.56, 
+                     190.92
+                  ]
+               ], 
+               "confidence": 0.705, 
+               "transcript": "how computer trance "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     193.29, 
+                     193.67
+                  ], 
+                  [
+                     "tries", 
+                     193.67, 
+                     193.99
+                  ], 
+                  [
+                     "to", 
+                     193.99, 
+                     194.11
+                  ]
+               ], 
+               "confidence": 0.807, 
+               "transcript": "Watson tries to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     194.51, 
+                     194.63
+                  ], 
+                  [
+                     "the", 
+                     194.63, 
+                     194.71
+                  ], 
+                  [
+                     "real", 
+                     194.71, 
+                     194.95
+                  ], 
+                  [
+                     "intent", 
+                     194.95, 
+                     195.35
+                  ]
+               ], 
+               "confidence": 0.679, 
+               "transcript": "and the real intent "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     196.65, 
+                     196.85
+                  ], 
+                  [
+                     "uses", 
+                     196.85, 
+                     197.16
+                  ], 
+                  [
+                     "that", 
+                     197.16, 
+                     197.32
+                  ], 
+                  [
+                     "understanding", 
+                     197.32, 
+                     197.97
+                  ], 
+                  [
+                     "to", 
+                     197.97, 
+                     198.1
+                  ], 
+                  [
+                     "possibly", 
+                     198.1, 
+                     198.62
+                  ], 
+                  [
+                     "extra", 
+                     198.62, 
+                     198.92
+                  ]
+               ], 
+               "confidence": 0.928, 
+               "transcript": "and uses that understanding to possibly extra "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "logical", 
+                     199.25, 
+                     199.69
+                  ], 
+                  [
+                     "response", 
+                     199.69, 
+                     200.1
+                  ]
+               ], 
+               "confidence": 0.851, 
+               "transcript": "logical response "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "in", 
+                     200.92, 
+                     201.04
+                  ], 
+                  [
+                     "France", 
+                     201.04, 
+                     201.32
+                  ]
+               ], 
+               "confidence": 0.663, 
+               "transcript": "in France "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "through", 
+                     202.83, 
+                     202.95
+                  ], 
+                  [
+                     "a", 
+                     202.95, 
+                     203.02
+                  ], 
+                  [
+                     "broad", 
+                     203.02, 
+                     203.35
+                  ], 
+                  [
+                     "array", 
+                     203.35, 
+                     203.63
+                  ], 
+                  [
+                     "of", 
+                     203.63, 
+                     203.76
+                  ], 
+                  [
+                     "linguistic", 
+                     203.76, 
+                     204.34
+                  ]
+               ], 
+               "confidence": 0.638, 
+               "transcript": "through a broad array of linguistic "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Calgary", 
+                     205.0, 
+                     205.43
+                  ]
+               ], 
+               "confidence": 0.191, 
+               "transcript": "Calgary "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "when", 
+                     208.78, 
+                     208.93
+                  ], 
+                  [
+                     "Watson", 
+                     208.93, 
+                     209.32
+                  ], 
+                  [
+                     "goes", 
+                     209.32, 
+                     209.55
+                  ], 
+                  [
+                     "to", 
+                     209.55, 
+                     209.66
+                  ], 
+                  [
+                     "work", 
+                     209.66, 
+                     209.93
+                  ], 
+                  [
+                     "in", 
+                     209.93, 
+                     210.0
+                  ], 
+                  [
+                     "a", 
+                     210.0, 
+                     210.05
+                  ], 
+                  [
+                     "particular", 
+                     210.05, 
+                     210.62
+                  ], 
+                  [
+                     "field", 
+                     210.62, 
+                     211.08
+                  ], 
+                  [
+                     "it", 
+                     211.36, 
+                     211.52
+                  ], 
+                  [
+                     "learns", 
+                     211.52, 
+                     211.87
+                  ], 
+                  [
+                     "the", 
+                     211.87, 
+                     211.97
+                  ], 
+                  [
+                     "language", 
+                     211.97, 
+                     212.5
+                  ]
+               ], 
+               "confidence": 0.885, 
+               "transcript": "when Watson goes to work in a particular field it learns the language "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     212.83, 
+                     212.9
+                  ], 
+                  [
+                     "jargon", 
+                     212.9, 
+                     213.45
+                  ], 
+                  [
+                     "and", 
+                     213.56, 
+                     213.72
+                  ], 
+                  [
+                     "the", 
+                     213.72, 
+                     213.79
+                  ], 
+                  [
+                     "mode", 
+                     213.79, 
+                     214.03
+                  ], 
+                  [
+                     "of", 
+                     214.03, 
+                     214.13
+                  ], 
+                  [
+                     "thought", 
+                     214.13, 
+                     214.4
+                  ]
+               ], 
+               "confidence": 0.817, 
+               "transcript": "the jargon and the mode of thought "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "domain", 
+                     214.97, 
+                     215.39
+                  ], 
+                  [
+                     "take", 
+                     215.76, 
+                     216.0
+                  ], 
+                  [
+                     "the", 
+                     216.0, 
+                     216.09
+                  ], 
+                  [
+                     "term", 
+                     216.09, 
+                     216.37
+                  ], 
+                  [
+                     "cancer", 
+                     216.37, 
+                     216.82
+                  ], 
+                  [
+                     "friend", 
+                     216.82, 
+                     217.11
+                  ]
+               ], 
+               "confidence": 0.574, 
+               "transcript": "domain take the term cancer friend "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "there", 
+                     217.69, 
+                     217.83
+                  ], 
+                  [
+                     "are", 
+                     217.83, 
+                     217.89
+                  ], 
+                  [
+                     "many", 
+                     217.89, 
+                     218.18
+                  ], 
+                  [
+                     "different", 
+                     218.18, 
+                     218.54
+                  ], 
+                  [
+                     "types", 
+                     218.54, 
+                     218.83
+                  ], 
+                  [
+                     "of", 
+                     218.83, 
+                     218.94
+                  ], 
+                  [
+                     "cancer", 
+                     218.94, 
+                     219.41
+                  ], 
+                  [
+                     "and", 
+                     219.5, 
+                     219.67
+                  ], 
+                  [
+                     "each", 
+                     219.67, 
+                     219.95
+                  ], 
+                  [
+                     "time", 
+                     219.95, 
+                     220.1
+                  ]
+               ], 
+               "confidence": 0.952, 
+               "transcript": "there are many different types of cancer and each time "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "symptom", 
+                     220.82, 
+                     221.29
+                  ]
+               ], 
+               "confidence": 0.389, 
+               "transcript": "symptom "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Siemens", 
+                     221.86, 
+                     222.26
+                  ]
+               ], 
+               "confidence": 0.08, 
+               "transcript": "Siemens "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "however", 
+                     222.7, 
+                     223.28
+                  ], 
+                  [
+                     "those", 
+                     223.43, 
+                     223.67
+                  ], 
+                  [
+                     "symptoms", 
+                     223.67, 
+                     224.17
+                  ], 
+                  [
+                     "can", 
+                     224.17, 
+                     224.33
+                  ], 
+                  [
+                     "also", 
+                     224.33, 
+                     224.62
+                  ], 
+                  [
+                     "be", 
+                     224.62, 
+                     224.75
+                  ], 
+                  [
+                     "associated", 
+                     224.75, 
+                     225.42
+                  ], 
+                  [
+                     "with", 
+                     225.42, 
+                     225.57
+                  ], 
+                  [
+                     "diseases", 
+                     225.57, 
+                     226.12
+                  ], 
+                  [
+                     "other", 
+                     226.15, 
+                     226.38
+                  ], 
+                  [
+                     "thing", 
+                     226.38, 
+                     226.6
+                  ]
+               ], 
+               "confidence": 0.89, 
+               "transcript": "however those symptoms can also be associated with diseases other thing "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "treatments", 
+                     227.24, 
+                     227.68
+                  ], 
+                  [
+                     "can", 
+                     227.68, 
+                     227.82
+                  ], 
+                  [
+                     "have", 
+                     227.82, 
+                     227.91
+                  ], 
+                  [
+                     "side", 
+                     227.91, 
+                     228.17
+                  ], 
+                  [
+                     "effects", 
+                     228.17, 
+                     228.69
+                  ], 
+                  [
+                     "and", 
+                     228.81, 
+                     228.93
+                  ], 
+                  [
+                     "affect", 
+                     228.93, 
+                     229.27
+                  ], 
+                  [
+                     "people", 
+                     229.27, 
+                     229.52
+                  ], 
+                  [
+                     "differently", 
+                     229.52, 
+                     230.08
+                  ], 
+                  [
+                     "depending", 
+                     230.16, 
+                     230.54
+                  ], 
+                  [
+                     "on", 
+                     230.54, 
+                     230.68
+                  ], 
+                  [
+                     "many", 
+                     230.68, 
+                     230.93
+                  ], 
+                  [
+                     "factors", 
+                     230.93, 
+                     231.39
+                  ]
+               ], 
+               "confidence": 0.908, 
+               "transcript": "treatments can have side effects and affect people differently depending on many factors "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     231.81, 
+                     232.15
+                  ], 
+                  [
+                     "evaluate", 
+                     232.15, 
+                     232.79
+                  ], 
+                  [
+                     "standard", 
+                     232.79, 
+                     233.22
+                  ], 
+                  [
+                     "of", 
+                     233.22, 
+                     233.33
+                  ], 
+                  [
+                     "care", 
+                     233.33, 
+                     233.6
+                  ], 
+                  [
+                     "pack", 
+                     233.6, 
+                     233.85
+                  ]
+               ], 
+               "confidence": 0.804, 
+               "transcript": "Watson evaluate standard of care pack "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     234.38, 
+                     234.58
+                  ], 
+                  [
+                     "thousands", 
+                     234.58, 
+                     235.05
+                  ], 
+                  [
+                     "of", 
+                     235.05, 
+                     235.15
+                  ], 
+                  [
+                     "pages", 
+                     235.15, 
+                     235.54
+                  ], 
+                  [
+                     "of", 
+                     235.54, 
+                     235.67
+                  ], 
+                  [
+                     "literature", 
+                     235.67, 
+                     236.16
+                  ], 
+                  [
+                     "that", 
+                     236.16, 
+                     236.34
+                  ], 
+                  [
+                     "capture", 
+                     236.34, 
+                     236.71
+                  ], 
+                  [
+                     "the", 
+                     236.71, 
+                     236.81
+                  ], 
+                  [
+                     "best", 
+                     236.81, 
+                     237.25
+                  ]
+               ], 
+               "confidence": 0.899, 
+               "transcript": "and thousands of pages of literature that capture the best "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "field", 
+                     237.7, 
+                     238.18
+                  ], 
+                  [
+                     "and", 
+                     238.21, 
+                     238.38
+                  ], 
+                  [
+                     "from", 
+                     238.38, 
+                     238.6
+                  ], 
+                  [
+                     "all", 
+                     238.6, 
+                     238.77
+                  ], 
+                  [
+                     "of", 
+                     238.77, 
+                     238.87
+                  ], 
+                  [
+                     "that", 
+                     238.87, 
+                     239.19
+                  ], 
+                  [
+                     "Watson", 
+                     239.25, 
+                     239.6
+                  ], 
+                  [
+                     "identified", 
+                     239.6, 
+                     240.24
+                  ]
+               ], 
+               "confidence": 0.806, 
+               "transcript": "field and from all of that Watson identified "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "therapies", 
+                     240.34, 
+                     240.94
+                  ], 
+                  [
+                     "at", 
+                     240.94, 
+                     241.09
+                  ], 
+                  [
+                     "all", 
+                     241.09, 
+                     241.23
+                  ]
+               ], 
+               "confidence": 0.611, 
+               "transcript": "therapies at all "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "best", 
+                     241.55, 
+                     241.84
+                  ], 
+                  [
+                     "choices", 
+                     241.84, 
+                     242.36
+                  ]
+               ], 
+               "confidence": 0.859, 
+               "transcript": "best choices "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     242.48, 
+                     242.54
+                  ], 
+                  [
+                     "doctor", 
+                     242.54, 
+                     242.93
+                  ], 
+                  [
+                     "to", 
+                     242.93, 
+                     243.08
+                  ], 
+                  [
+                     "consider", 
+                     243.08, 
+                     243.54
+                  ], 
+                  [
+                     "in", 
+                     243.54, 
+                     243.64
+                  ], 
+                  [
+                     "their", 
+                     243.64, 
+                     243.79
+                  ], 
+                  [
+                     "treatment", 
+                     243.79, 
+                     244.28
+                  ], 
+                  [
+                     "of", 
+                     244.28, 
+                     244.42
+                  ]
+               ], 
+               "confidence": 0.926, 
+               "transcript": "the doctor to consider in their treatment of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     245.51, 
+                     245.58
+                  ], 
+                  [
+                     "guidance", 
+                     245.58, 
+                     246.01
+                  ], 
+                  [
+                     "of", 
+                     246.01, 
+                     246.12
+                  ], 
+                  [
+                     "human", 
+                     246.12, 
+                     246.41
+                  ], 
+                  [
+                     "experts", 
+                     246.41, 
+                     246.87
+                  ]
+               ], 
+               "confidence": 0.88, 
+               "transcript": "the guidance of human experts "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     247.14, 
+                     247.51
+                  ], 
+                  [
+                     "collects", 
+                     247.51, 
+                     247.92
+                  ], 
+                  [
+                     "the", 
+                     247.92, 
+                     248.05
+                  ], 
+                  [
+                     "knowledge", 
+                     248.05, 
+                     248.47
+                  ], 
+                  [
+                     "required", 
+                     248.47, 
+                     248.88
+                  ], 
+                  [
+                     "to", 
+                     248.88, 
+                     248.96
+                  ], 
+                  [
+                     "have", 
+                     248.96, 
+                     249.19
+                  ], 
+                  [
+                     "literacy", 
+                     249.19, 
+                     249.87
+                  ], 
+                  [
+                     "benefiting", 
+                     249.94, 
+                     250.42
+                  ]
+               ], 
+               "confidence": 0.84, 
+               "transcript": "Watson collects the knowledge required to have literacy benefiting "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it's", 
+                     251.44, 
+                     251.5
+                  ], 
+                  [
+                     "called", 
+                     251.5, 
+                     251.73
+                  ], 
+                  [
+                     "a", 
+                     251.73, 
+                     251.76
+                  ], 
+                  [
+                     "corpus", 
+                     251.76, 
+                     252.28
+                  ], 
+                  [
+                     "of", 
+                     252.28, 
+                     252.37
+                  ]
+               ], 
+               "confidence": 0.922, 
+               "transcript": "it's called a corpus of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "collecting", 
+                     253.23, 
+                     253.67
+                  ], 
+                  [
+                     "a", 
+                     253.67, 
+                     253.74
+                  ], 
+                  [
+                     "corpus", 
+                     253.74, 
+                     254.17
+                  ], 
+                  [
+                     "starts", 
+                     254.17, 
+                     254.53
+                  ], 
+                  [
+                     "with", 
+                     254.53, 
+                     254.69
+                  ], 
+                  [
+                     "loading", 
+                     254.69, 
+                     255.04
+                  ], 
+                  [
+                     "the", 
+                     255.04, 
+                     255.14
+                  ], 
+                  [
+                     "relevant", 
+                     255.14, 
+                     255.64
+                  ], 
+                  [
+                     "body", 
+                     255.64, 
+                     255.96
+                  ], 
+                  [
+                     "of", 
+                     255.96, 
+                     256.06
+                  ], 
+                  [
+                     "that", 
+                     256.06, 
+                     256.31
+                  ]
+               ], 
+               "confidence": 0.832, 
+               "transcript": "collecting a corpus starts with loading the relevant body of that "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "into", 
+                     256.75, 
+                     257.1
+                  ], 
+                  [
+                     "a", 
+                     257.1, 
+                     257.15
+                  ]
+               ], 
+               "confidence": 0.681, 
+               "transcript": "into a "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "building", 
+                     257.68, 
+                     258.03
+                  ], 
+                  [
+                     "the", 
+                     258.03, 
+                     258.12
+                  ], 
+                  [
+                     "corpus", 
+                     258.12, 
+                     258.61
+                  ], 
+                  [
+                     "also", 
+                     258.61, 
+                     258.95
+                  ], 
+                  [
+                     "require", 
+                     258.95, 
+                     259.33
+                  ]
+               ], 
+               "confidence": 0.864, 
+               "transcript": "building the corpus also require "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "human", 
+                     259.6, 
+                     259.94
+                  ], 
+                  [
+                     "intervention", 
+                     259.94, 
+                     260.64
+                  ]
+               ], 
+               "confidence": 0.974, 
+               "transcript": "human intervention "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     260.9, 
+                     260.93
+                  ], 
+                  [
+                     "culture", 
+                     260.93, 
+                     261.34
+                  ], 
+                  [
+                     "the", 
+                     261.34, 
+                     261.49
+                  ], 
+                  [
+                     "entry", 
+                     261.49, 
+                     261.72
+                  ]
+               ], 
+               "confidence": 0.972, 
+               "transcript": "a culture the entry "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "anything", 
+                     262.82, 
+                     263.24
+                  ], 
+                  [
+                     "that", 
+                     263.24, 
+                     263.42
+                  ], 
+                  [
+                     "is", 
+                     263.42, 
+                     263.68
+                  ], 
+                  [
+                     "out", 
+                     263.72, 
+                     263.92
+                  ], 
+                  [
+                     "of", 
+                     263.92, 
+                     264.03
+                  ], 
+                  [
+                     "date", 
+                     264.03, 
+                     264.4
+                  ], 
+                  [
+                     "poorly", 
+                     264.57, 
+                     264.93
+                  ], 
+                  [
+                     "regarded", 
+                     264.93, 
+                     265.55
+                  ], 
+                  [
+                     "or", 
+                     265.61, 
+                     265.77
+                  ], 
+                  [
+                     "immaterial", 
+                     265.77, 
+                     266.48
+                  ], 
+                  [
+                     "to", 
+                     266.48, 
+                     266.63
+                  ], 
+                  [
+                     "the", 
+                     266.63, 
+                     266.72
+                  ], 
+                  [
+                     "problems", 
+                     266.72, 
+                     267.19
+                  ]
+               ], 
+               "confidence": 0.916, 
+               "transcript": "anything that is out of date poorly regarded or immaterial to the problems "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     267.85, 
+                     268.01
+                  ], 
+                  [
+                     "refer", 
+                     268.01, 
+                     268.3
+                  ], 
+                  [
+                     "to", 
+                     268.3, 
+                     268.45
+                  ], 
+                  [
+                     "this", 
+                     268.45, 
+                     268.91
+                  ]
+               ], 
+               "confidence": 0.907, 
+               "transcript": "we refer to this "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "curating", 
+                     269.12, 
+                     269.64
+                  ], 
+                  [
+                     "the", 
+                     269.64, 
+                     269.72
+                  ], 
+                  [
+                     "calm", 
+                     269.72, 
+                     269.88
+                  ]
+               ], 
+               "confidence": 0.882, 
+               "transcript": "curating the calm "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "next", 
+                     270.6, 
+                     271.13
+                  ], 
+                  [
+                     "the", 
+                     271.19, 
+                     271.28
+                  ], 
+                  [
+                     "data", 
+                     271.28, 
+                     271.61
+                  ], 
+                  [
+                     "is", 
+                     271.61, 
+                     271.83
+                  ], 
+                  [
+                     "pre", 
+                     271.83, 
+                     272.01
+                  ], 
+                  [
+                     "processed", 
+                     272.01, 
+                     272.59
+                  ], 
+                  [
+                     "by", 
+                     272.59, 
+                     272.7
+                  ], 
+                  [
+                     "Watson", 
+                     272.7, 
+                     273.26
+                  ], 
+                  [
+                     "building", 
+                     273.3, 
+                     273.6
+                  ], 
+                  [
+                     "indices", 
+                     273.6, 
+                     274.23
+                  ], 
+                  [
+                     "in", 
+                     274.23, 
+                     274.37
+                  ], 
+                  [
+                     "other", 
+                     274.37, 
+                     274.63
+                  ], 
+                  [
+                     "meditator", 
+                     274.63, 
+                     275.31
+                  ], 
+                  [
+                     "that", 
+                     275.38, 
+                     275.54
+                  ], 
+                  [
+                     "make", 
+                     275.54, 
+                     275.79
+                  ], 
+                  [
+                     "working", 
+                     275.79, 
+                     276.11
+                  ], 
+                  [
+                     "with", 
+                     276.11, 
+                     276.27
+                  ], 
+                  [
+                     "that", 
+                     276.27, 
+                     276.46
+                  ], 
+                  [
+                     "content", 
+                     276.46, 
+                     276.92
+                  ], 
+                  [
+                     "more", 
+                     276.92, 
+                     277.09
+                  ], 
+                  [
+                     "if", 
+                     277.09, 
+                     277.3
+                  ]
+               ], 
+               "confidence": 0.791, 
+               "transcript": "next the data is pre processed by Watson building indices in other meditator that make working with that content more if "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     277.85, 
+                     278.03
+                  ], 
+                  [
+                     "is", 
+                     278.03, 
+                     278.17
+                  ], 
+                  [
+                     "known", 
+                     278.17, 
+                     278.41
+                  ], 
+                  [
+                     "as", 
+                     278.41, 
+                     278.55
+                  ], 
+                  [
+                     "ingestion", 
+                     278.55, 
+                     279.14
+                  ]
+               ], 
+               "confidence": 0.697, 
+               "transcript": "this is known as ingestion "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "at", 
+                     279.47, 
+                     279.69
+                  ], 
+                  [
+                     "this", 
+                     279.69, 
+                     279.94
+                  ], 
+                  [
+                     "time", 
+                     279.94, 
+                     280.33
+                  ], 
+                  [
+                     "Watson", 
+                     280.47, 
+                     280.87
+                  ], 
+                  [
+                     "may", 
+                     280.87, 
+                     281.05
+                  ], 
+                  [
+                     "also", 
+                     281.05, 
+                     281.45
+                  ], 
+                  [
+                     "create", 
+                     281.45, 
+                     281.8
+                  ], 
+                  [
+                     "a", 
+                     281.8, 
+                     281.84
+                  ], 
+                  [
+                     "knowledge", 
+                     281.84, 
+                     282.27
+                  ], 
+                  [
+                     "graph", 
+                     282.27, 
+                     282.47
+                  ]
+               ], 
+               "confidence": 0.781, 
+               "transcript": "at this time Watson may also create a knowledge graph "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "westerns", 
+                     284.5, 
+                     285.13
+                  ]
+               ], 
+               "confidence": 0.271, 
+               "transcript": "westerns "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "now", 
+                     287.36, 
+                     287.61
+                  ], 
+                  [
+                     "that", 
+                     287.61, 
+                     287.81
+                  ], 
+                  [
+                     "Watson", 
+                     287.81, 
+                     288.24
+                  ], 
+                  [
+                     "has", 
+                     288.24, 
+                     288.44
+                  ], 
+                  [
+                     "ingested", 
+                     288.44, 
+                     288.95
+                  ], 
+                  [
+                     "the", 
+                     288.95, 
+                     289.02
+                  ], 
+                  [
+                     "corpus", 
+                     289.02, 
+                     289.68
+                  ], 
+                  [
+                     "it", 
+                     289.75, 
+                     289.9
+                  ], 
+                  [
+                     "needs", 
+                     289.9, 
+                     290.18
+                  ], 
+                  [
+                     "to", 
+                     290.18, 
+                     290.28
+                  ], 
+                  [
+                     "be", 
+                     290.28, 
+                     290.37
+                  ], 
+                  [
+                     "trained", 
+                     290.37, 
+                     290.77
+                  ], 
+                  [
+                     "by", 
+                     290.77, 
+                     290.92
+                  ], 
+                  [
+                     "a", 
+                     290.92, 
+                     290.97
+                  ], 
+                  [
+                     "human", 
+                     290.97, 
+                     291.31
+                  ], 
+                  [
+                     "expert", 
+                     291.31, 
+                     291.68
+                  ]
+               ], 
+               "confidence": 0.872, 
+               "transcript": "now that Watson has ingested the corpus it needs to be trained by a human expert "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "learn", 
+                     291.96, 
+                     292.18
+                  ], 
+                  [
+                     "how", 
+                     292.18, 
+                     292.31
+                  ], 
+                  [
+                     "to", 
+                     292.31, 
+                     292.39
+                  ], 
+                  [
+                     "enter", 
+                     292.39, 
+                     292.74
+                  ]
+               ], 
+               "confidence": 0.848, 
+               "transcript": "learn how to enter "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     292.94, 
+                     293.07
+                  ], 
+                  [
+                     "in", 
+                     293.07, 
+                     293.22
+                  ]
+               ], 
+               "confidence": 0.662, 
+               "transcript": "the in "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     293.97, 
+                     294.13
+                  ], 
+                  [
+                     "learn", 
+                     294.13, 
+                     294.4
+                  ], 
+                  [
+                     "the", 
+                     294.4, 
+                     294.49
+                  ], 
+                  [
+                     "best", 
+                     294.49, 
+                     294.81
+                  ], 
+                  [
+                     "possible", 
+                     294.81, 
+                     295.22
+                  ], 
+                  [
+                     "responses", 
+                     295.22, 
+                     295.89
+                  ], 
+                  [
+                     "and", 
+                     295.89, 
+                     295.99
+                  ], 
+                  [
+                     "acquire", 
+                     295.99, 
+                     296.39
+                  ], 
+                  [
+                     "the", 
+                     296.39, 
+                     296.53
+                  ], 
+                  [
+                     "ability", 
+                     296.53, 
+                     297.07
+                  ], 
+                  [
+                     "to", 
+                     297.07, 
+                     297.25
+                  ]
+               ], 
+               "confidence": 0.923, 
+               "transcript": "to learn the best possible responses and acquire the ability to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     298.31, 
+                     298.68
+                  ], 
+                  [
+                     "partners", 
+                     298.68, 
+                     299.21
+                  ], 
+                  [
+                     "with", 
+                     299.21, 
+                     299.33
+                  ]
+               ], 
+               "confidence": 0.795, 
+               "transcript": "Watson partners with "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "good", 
+                     300.16, 
+                     300.32
+                  ], 
+                  [
+                     "training", 
+                     300.32, 
+                     300.75
+                  ], 
+                  [
+                     "in", 
+                     300.78, 
+                     300.93
+                  ], 
+                  [
+                     "using", 
+                     300.93, 
+                     301.31
+                  ], 
+                  [
+                     "an", 
+                     301.31, 
+                     301.39
+                  ], 
+                  [
+                     "approach", 
+                     301.39, 
+                     301.8
+                  ], 
+                  [
+                     "called", 
+                     301.8, 
+                     302.06
+                  ], 
+                  [
+                     "machine", 
+                     302.06, 
+                     302.45
+                  ], 
+                  [
+                     "learning", 
+                     302.45, 
+                     302.77
+                  ]
+               ], 
+               "confidence": 0.709, 
+               "transcript": "good training in using an approach called machine learning "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "an", 
+                     303.01, 
+                     303.16
+                  ], 
+                  [
+                     "expert", 
+                     303.16, 
+                     303.62
+                  ], 
+                  [
+                     "will", 
+                     303.62, 
+                     303.77
+                  ], 
+                  [
+                     "upload", 
+                     303.8, 
+                     304.26
+                  ], 
+                  [
+                     "training", 
+                     304.26, 
+                     304.64
+                  ], 
+                  [
+                     "data", 
+                     304.64, 
+                     304.95
+                  ], 
+                  [
+                     "into", 
+                     304.95, 
+                     305.26
+                  ], 
+                  [
+                     "Watson", 
+                     305.26, 
+                     305.68
+                  ]
+               ], 
+               "confidence": 0.884, 
+               "transcript": "an expert will upload training data into Watson "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "chin", 
+                     306.67, 
+                     306.89
+                  ], 
+                  [
+                     "and", 
+                     306.89, 
+                     307.12
+                  ]
+               ], 
+               "confidence": 0.439, 
+               "transcript": "chin and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     307.82, 
+                     307.99
+                  ], 
+                  [
+                     "service", 
+                     307.99, 
+                     308.38
+                  ], 
+                  [
+                     "ground", 
+                     308.38, 
+                     308.74
+                  ], 
+                  [
+                     "truth", 
+                     308.74, 
+                     309.0
+                  ]
+               ], 
+               "confidence": 0.779, 
+               "transcript": "that service ground truth "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     309.28, 
+                     309.49
+                  ], 
+                  [
+                     "doesn't", 
+                     309.49, 
+                     309.84
+                  ], 
+                  [
+                     "give", 
+                     309.84, 
+                     310.07
+                  ], 
+                  [
+                     "what's", 
+                     310.07, 
+                     310.34
+                  ], 
+                  [
+                     "an", 
+                     310.34, 
+                     310.41
+                  ], 
+                  [
+                     "explicit", 
+                     310.41, 
+                     311.02
+                  ], 
+                  [
+                     "and", 
+                     311.02, 
+                     311.25
+                  ]
+               ], 
+               "confidence": 0.931, 
+               "transcript": "this doesn't give what's an explicit and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "for", 
+                     311.45, 
+                     311.57
+                  ], 
+                  [
+                     "every", 
+                     311.57, 
+                     311.76
+                  ], 
+                  [
+                     "quite", 
+                     311.76, 
+                     311.98
+                  ]
+               ], 
+               "confidence": 0.795, 
+               "transcript": "for every quite "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it", 
+                     312.14, 
+                     312.25
+                  ], 
+                  [
+                     "will", 
+                     312.25, 
+                     312.37
+                  ], 
+                  [
+                     "receive", 
+                     312.37, 
+                     312.96
+                  ], 
+                  [
+                     "but", 
+                     313.04, 
+                     313.21
+                  ], 
+                  [
+                     "rather", 
+                     313.21, 
+                     313.7
+                  ], 
+                  [
+                     "teaches", 
+                     313.73, 
+                     314.12
+                  ], 
+                  [
+                     "at", 
+                     314.12, 
+                     314.23
+                  ], 
+                  [
+                     "the", 
+                     314.23, 
+                     314.32
+                  ], 
+                  [
+                     "linguistic", 
+                     314.32, 
+                     314.95
+                  ], 
+                  [
+                     "Pat", 
+                     314.95, 
+                     315.17
+                  ]
+               ], 
+               "confidence": 0.836, 
+               "transcript": "it will receive but rather teaches at the linguistic Pat "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "earnings", 
+                     315.24, 
+                     315.46
+                  ], 
+                  [
+                     "have", 
+                     315.46, 
+                     315.67
+                  ], 
+                  [
+                     "meaning", 
+                     315.67, 
+                     316.09
+                  ], 
+                  [
+                     "in", 
+                     316.18, 
+                     316.3
+                  ], 
+                  [
+                     "the", 
+                     316.3, 
+                     316.38
+                  ], 
+                  [
+                     "domain", 
+                     316.38, 
+                     316.87
+                  ]
+               ], 
+               "confidence": 0.779, 
+               "transcript": "earnings have meaning in the domain "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "once", 
+                     317.2, 
+                     317.48
+                  ], 
+                  [
+                     "Watson", 
+                     317.48, 
+                     317.84
+                  ], 
+                  [
+                     "has", 
+                     317.84, 
+                     318.03
+                  ], 
+                  [
+                     "been", 
+                     318.03, 
+                     318.14
+                  ], 
+                  [
+                     "trained", 
+                     318.14, 
+                     318.55
+                  ], 
+                  [
+                     "on", 
+                     318.55, 
+                     318.71
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "once Watson has been trained on "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you", 
+                     318.85, 
+                     318.94
+                  ], 
+                  [
+                     "a", 
+                     318.94, 
+                     319.08
+                  ], 
+                  [
+                     "pair", 
+                     319.08, 
+                     319.35
+                  ]
+               ], 
+               "confidence": 0.922, 
+               "transcript": "you a pair "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it", 
+                     319.65, 
+                     319.79
+                  ], 
+                  [
+                     "continues", 
+                     319.79, 
+                     320.34
+                  ], 
+                  [
+                     "to", 
+                     320.34, 
+                     320.47
+                  ], 
+                  [
+                     "learn", 
+                     320.47, 
+                     320.64
+                  ]
+               ], 
+               "confidence": 0.994, 
+               "transcript": "it continues to learn "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "your", 
+                     320.86, 
+                     320.95
+                  ], 
+                  [
+                     "on", 
+                     320.95, 
+                     321.2
+                  ], 
+                  [
+                     "going", 
+                     321.2, 
+                     321.54
+                  ], 
+                  [
+                     "into", 
+                     321.54, 
+                     321.78
+                  ]
+               ], 
+               "confidence": 0.839, 
+               "transcript": "your on going into "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "interactions", 
+                     322.49, 
+                     323.08
+                  ], 
+                  [
+                     "between", 
+                     323.08, 
+                     323.37
+                  ], 
+                  [
+                     "users", 
+                     323.37, 
+                     323.77
+                  ], 
+                  [
+                     "and", 
+                     323.77, 
+                     323.89
+                  ], 
+                  [
+                     "lots", 
+                     323.89, 
+                     324.13
+                  ]
+               ], 
+               "confidence": 0.896, 
+               "transcript": "interactions between users and lots "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "periodically", 
+                     324.46, 
+                     325.14
+                  ], 
+                  [
+                     "reviewed", 
+                     325.14, 
+                     325.54
+                  ]
+               ], 
+               "confidence": 0.835, 
+               "transcript": "periodically reviewed "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     326.37, 
+                     326.5
+                  ], 
+                  [
+                     "sat", 
+                     326.5, 
+                     326.74
+                  ], 
+                  [
+                     "back", 
+                     326.74, 
+                     327.05
+                  ], 
+                  [
+                     "and", 
+                     327.05, 
+                     327.2
+                  ]
+               ], 
+               "confidence": 0.66, 
+               "transcript": "and sat back and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "better", 
+                     328.48, 
+                     328.72
+                  ], 
+                  [
+                     "inter", 
+                     328.72, 
+                     329.13
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "better inter "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "likewise", 
+                     330.19, 
+                     330.86
+                  ], 
+                  [
+                     "as", 
+                     330.89, 
+                     331.09
+                  ], 
+                  [
+                     "new", 
+                     331.09, 
+                     331.24
+                  ], 
+                  [
+                     "information", 
+                     331.24, 
+                     331.85
+                  ], 
+                  [
+                     "is", 
+                     331.85, 
+                     332.0
+                  ], 
+                  [
+                     "published", 
+                     332.0, 
+                     332.62
+                  ], 
+                  [
+                     "Watson", 
+                     332.72, 
+                     333.06
+                  ], 
+                  [
+                     "is", 
+                     333.06, 
+                     333.21
+                  ], 
+                  [
+                     "updated", 
+                     333.21, 
+                     333.78
+                  ], 
+                  [
+                     "so", 
+                     333.78, 
+                     333.97
+                  ]
+               ], 
+               "confidence": 0.925, 
+               "transcript": "likewise as new information is published Watson is updated so "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "constantly", 
+                     334.31, 
+                     334.89
+                  ], 
+                  [
+                     "adapt", 
+                     334.89, 
+                     335.23
+                  ]
+               ], 
+               "confidence": 0.755, 
+               "transcript": "constantly adapt "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     335.87, 
+                     335.98
+                  ], 
+                  [
+                     "knowledge", 
+                     335.98, 
+                     336.48
+                  ]
+               ], 
+               "confidence": 0.828, 
+               "transcript": "and knowledge "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     336.69, 
+                     336.85
+                  ], 
+                  [
+                     "then", 
+                     336.85, 
+                     336.96
+                  ], 
+                  [
+                     "twisted", 
+                     336.96, 
+                     337.34
+                  ], 
+                  [
+                     "and", 
+                     337.34, 
+                     337.45
+                  ], 
+                  [
+                     "turned", 
+                     337.45, 
+                     337.65
+                  ]
+               ], 
+               "confidence": 0.65, 
+               "transcript": "and then twisted and turned "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "any", 
+                     338.39, 
+                     338.64
+                  ], 
+                  [
+                     "given", 
+                     338.64, 
+                     338.91
+                  ]
+               ], 
+               "confidence": 0.96, 
+               "transcript": "any given "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     339.52, 
+                     339.89
+                  ], 
+                  [
+                     "is", 
+                     339.89, 
+                     340.03
+                  ], 
+                  [
+                     "now", 
+                     340.03, 
+                     340.32
+                  ], 
+                  [
+                     "ready", 
+                     340.32, 
+                     340.58
+                  ], 
+                  [
+                     "to", 
+                     340.58, 
+                     340.74
+                  ], 
+                  [
+                     "read", 
+                     340.74, 
+                     340.88
+                  ]
+               ], 
+               "confidence": 0.823, 
+               "transcript": "Watson is now ready to read "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "highly", 
+                     342.36, 
+                     342.64
+                  ], 
+                  [
+                     "com", 
+                     342.64, 
+                     342.89
+                  ]
+               ], 
+               "confidence": 0.416, 
+               "transcript": "highly com "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "duration", 
+                     343.41, 
+                     343.92
+                  ]
+               ], 
+               "confidence": 0.315, 
+               "transcript": "duration "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     344.32, 
+                     344.46
+                  ], 
+                  [
+                     "quickly", 
+                     344.46, 
+                     344.82
+                  ], 
+                  [
+                     "provide", 
+                     344.82, 
+                     345.26
+                  ], 
+                  [
+                     "a", 
+                     345.26, 
+                     345.35
+                  ], 
+                  [
+                     "range", 
+                     345.35, 
+                     345.67
+                  ], 
+                  [
+                     "of", 
+                     345.67, 
+                     345.76
+                  ]
+               ], 
+               "confidence": 0.914, 
+               "transcript": "and quickly provide a range of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Jill", 
+                     346.12, 
+                     346.24
+                  ], 
+                  [
+                     "responses", 
+                     346.24, 
+                     347.04
+                  ]
+               ], 
+               "confidence": 0.892, 
+               "transcript": "Jill responses "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "recommendations", 
+                     347.26, 
+                     348.14
+                  ]
+               ], 
+               "confidence": 0.989, 
+               "transcript": "recommendations "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     348.22, 
+                     348.34
+                  ], 
+                  [
+                     "are", 
+                     348.34, 
+                     348.43
+                  ], 
+                  [
+                     "backed", 
+                     348.43, 
+                     348.83
+                  ]
+               ], 
+               "confidence": 0.633, 
+               "transcript": "that are backed "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "evidence", 
+                     349.0, 
+                     349.46
+                  ]
+               ], 
+               "confidence": 0.993, 
+               "transcript": "evidence "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it's", 
+                     349.75, 
+                     349.99
+                  ], 
+                  [
+                     "also", 
+                     349.99, 
+                     350.39
+                  ], 
+                  [
+                     "prepared", 
+                     350.39, 
+                     350.9
+                  ], 
+                  [
+                     "by", 
+                     350.9, 
+                     351.04
+                  ]
+               ], 
+               "confidence": 0.746, 
+               "transcript": "it's also prepared by "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     351.49, 
+                     351.54
+                  ], 
+                  [
+                     "knew", 
+                     351.54, 
+                     351.78
+                  ], 
+                  [
+                     "inside", 
+                     351.78, 
+                     352.22
+                  ]
+               ], 
+               "confidence": 0.547, 
+               "transcript": "I knew inside "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "patterns", 
+                     352.59, 
+                     353.1
+                  ], 
+                  [
+                     "locked", 
+                     353.1, 
+                     353.39
+                  ], 
+                  [
+                     "away", 
+                     353.39, 
+                     353.62
+                  ], 
+                  [
+                     "in", 
+                     353.62, 
+                     353.74
+                  ], 
+                  [
+                     "a", 
+                     353.74, 
+                     353.79
+                  ]
+               ], 
+               "confidence": 0.938, 
+               "transcript": "patterns locked away in a "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "from", 
+                     358.55, 
+                     358.81
+                  ], 
+                  [
+                     "metallurgist", 
+                     358.81, 
+                     359.53
+                  ], 
+                  [
+                     "looking", 
+                     359.53, 
+                     359.77
+                  ], 
+                  [
+                     "for", 
+                     359.77, 
+                     359.94
+                  ], 
+                  [
+                     "new", 
+                     359.94, 
+                     360.2
+                  ], 
+                  [
+                     "alloys", 
+                     360.2, 
+                     360.87
+                  ], 
+                  [
+                     "to", 
+                     360.91, 
+                     361.05
+                  ], 
+                  [
+                     "researchers", 
+                     361.05, 
+                     361.69
+                  ], 
+                  [
+                     "looking", 
+                     361.69, 
+                     361.99
+                  ], 
+                  [
+                     "to", 
+                     361.99, 
+                     362.12
+                  ], 
+                  [
+                     "develop", 
+                     362.12, 
+                     362.55
+                  ], 
+                  [
+                     "more", 
+                     362.55, 
+                     362.79
+                  ]
+               ], 
+               "confidence": 0.857, 
+               "transcript": "from metallurgist looking for new alloys to researchers looking to develop more "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "drugs", 
+                     363.21, 
+                     363.78
+                  ], 
+                  [
+                     "human", 
+                     363.81, 
+                     364.08
+                  ], 
+                  [
+                     "experts", 
+                     364.08, 
+                     364.52
+                  ]
+               ], 
+               "confidence": 0.604, 
+               "transcript": "drugs human experts "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "using", 
+                     364.83, 
+                     365.28
+                  ], 
+                  [
+                     "Watson", 
+                     365.28, 
+                     365.69
+                  ], 
+                  [
+                     "to", 
+                     365.69, 
+                     365.86
+                  ], 
+                  [
+                     "uncover", 
+                     365.86, 
+                     366.24
+                  ], 
+                  [
+                     "new", 
+                     366.24, 
+                     366.48
+                  ], 
+                  [
+                     "possibilities", 
+                     366.48, 
+                     367.36
+                  ], 
+                  [
+                     "and", 
+                     367.36, 
+                     367.53
+                  ], 
+                  [
+                     "data", 
+                     367.53, 
+                     367.94
+                  ], 
+                  [
+                     "and", 
+                     368.03, 
+                     368.17
+                  ], 
+                  [
+                     "make", 
+                     368.17, 
+                     368.38
+                  ], 
+                  [
+                     "better", 
+                     368.38, 
+                     368.81
+                  ], 
+                  [
+                     "evidence", 
+                     368.84, 
+                     369.35
+                  ], 
+                  [
+                     "based", 
+                     369.35, 
+                     369.73
+                  ]
+               ], 
+               "confidence": 0.916, 
+               "transcript": "using Watson to uncover new possibilities and data and make better evidence based "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "across", 
+                     370.77, 
+                     371.19
+                  ], 
+                  [
+                     "all", 
+                     371.19, 
+                     371.46
+                  ], 
+                  [
+                     "of", 
+                     371.46, 
+                     371.55
+                  ], 
+                  [
+                     "these", 
+                     371.55, 
+                     371.81
+                  ], 
+                  [
+                     "different", 
+                     371.81, 
+                     372.16
+                  ]
+               ], 
+               "confidence": 0.997, 
+               "transcript": "across all of these different "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "there", 
+                     373.07, 
+                     373.22
+                  ], 
+                  [
+                     "is", 
+                     373.22, 
+                     373.33
+                  ], 
+                  [
+                     "a", 
+                     373.33, 
+                     373.38
+                  ], 
+                  [
+                     "common", 
+                     373.38, 
+                     373.78
+                  ], 
+                  [
+                     "approach", 
+                     373.78, 
+                     374.19
+                  ], 
+                  [
+                     "that", 
+                     374.19, 
+                     374.36
+                  ]
+               ], 
+               "confidence": 0.84, 
+               "transcript": "there is a common approach that "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "after", 
+                     375.66, 
+                     376.03
+                  ], 
+                  [
+                     "identifying", 
+                     376.03, 
+                     376.75
+                  ], 
+                  [
+                     "parts", 
+                     376.75, 
+                     377.09
+                  ], 
+                  [
+                     "of", 
+                     377.09, 
+                     377.17
+                  ], 
+                  [
+                     "speech", 
+                     377.17, 
+                     377.55
+                  ], 
+                  [
+                     "into", 
+                     377.55, 
+                     377.67
+                  ], 
+                  [
+                     "question", 
+                     377.67, 
+                     378.12
+                  ], 
+                  [
+                     "or", 
+                     378.12, 
+                     378.23
+                  ], 
+                  [
+                     "inquiry", 
+                     378.23, 
+                     378.95
+                  ]
+               ], 
+               "confidence": 0.908, 
+               "transcript": "after identifying parts of speech into question or inquiry "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it", 
+                     379.21, 
+                     379.28
+                  ], 
+                  [
+                     "generates", 
+                     379.28, 
+                     379.77
+                  ], 
+                  [
+                     "have", 
+                     379.77, 
+                     379.94
+                  ]
+               ], 
+               "confidence": 0.814, 
+               "transcript": "it generates have "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     380.86, 
+                     381.24
+                  ], 
+                  [
+                     "then", 
+                     381.24, 
+                     381.43
+                  ], 
+                  [
+                     "looks", 
+                     381.43, 
+                     381.69
+                  ], 
+                  [
+                     "for", 
+                     381.69, 
+                     381.81
+                  ], 
+                  [
+                     "evidence", 
+                     381.81, 
+                     382.35
+                  ]
+               ], 
+               "confidence": 0.702, 
+               "transcript": "Watson then looks for evidence "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "support", 
+                     382.5, 
+                     382.86
+                  ], 
+                  [
+                     "or", 
+                     382.86, 
+                     382.92
+                  ], 
+                  [
+                     "refute", 
+                     382.92, 
+                     383.34
+                  ], 
+                  [
+                     "the", 
+                     383.34, 
+                     383.46
+                  ]
+               ], 
+               "confidence": 0.838, 
+               "transcript": "support or refute the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it's", 
+                     384.42, 
+                     384.61
+                  ], 
+                  [
+                     "gore's", 
+                     384.61, 
+                     384.93
+                  ], 
+                  [
+                     "each", 
+                     384.93, 
+                     385.23
+                  ], 
+                  [
+                     "passage", 
+                     385.23, 
+                     385.8
+                  ], 
+                  [
+                     "based", 
+                     385.8, 
+                     386.1
+                  ], 
+                  [
+                     "on", 
+                     386.1, 
+                     386.26
+                  ], 
+                  [
+                     "still", 
+                     386.26, 
+                     386.45
+                  ]
+               ], 
+               "confidence": 0.818, 
+               "transcript": "it's gore's each passage based on still "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "tickle", 
+                     386.68, 
+                     386.91
+                  ], 
+                  [
+                     "modeling", 
+                     386.91, 
+                     387.42
+                  ], 
+                  [
+                     "for", 
+                     387.42, 
+                     387.61
+                  ]
+               ], 
+               "confidence": 0.823, 
+               "transcript": "tickle modeling for "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     388.15, 
+                     388.42
+                  ], 
+                  [
+                     "and", 
+                     388.42, 
+                     388.65
+                  ]
+               ], 
+               "confidence": 0.615, 
+               "transcript": "that and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "known", 
+                     388.93, 
+                     389.2
+                  ], 
+                  [
+                     "as", 
+                     389.2, 
+                     389.34
+                  ], 
+                  [
+                     "we", 
+                     389.34, 
+                     389.56
+                  ], 
+                  [
+                     "did", 
+                     389.56, 
+                     389.8
+                  ], 
+                  [
+                     "evidence", 
+                     389.83, 
+                     390.29
+                  ], 
+                  [
+                     "scores", 
+                     390.29, 
+                     390.92
+                  ]
+               ], 
+               "confidence": 0.779, 
+               "transcript": "known as we did evidence scores "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     391.13, 
+                     391.51
+                  ], 
+                  [
+                     "estimates", 
+                     391.51, 
+                     391.99
+                  ], 
+                  [
+                     "its", 
+                     391.99, 
+                     392.12
+                  ], 
+                  [
+                     "confidence", 
+                     392.12, 
+                     392.68
+                  ], 
+                  [
+                     "based", 
+                     392.68, 
+                     392.96
+                  ], 
+                  [
+                     "on", 
+                     392.96, 
+                     393.07
+                  ], 
+                  [
+                     "how", 
+                     393.07, 
+                     393.31
+                  ], 
+                  [
+                     "high", 
+                     393.31, 
+                     393.58
+                  ], 
+                  [
+                     "the", 
+                     393.58, 
+                     393.7
+                  ], 
+                  [
+                     "responses", 
+                     393.7, 
+                     394.36
+                  ], 
+                  [
+                     "redid", 
+                     394.36, 
+                     394.83
+                  ], 
+                  [
+                     "during", 
+                     394.91, 
+                     395.19
+                  ], 
+                  [
+                     "evidence", 
+                     395.22, 
+                     395.62
+                  ], 
+                  [
+                     "scoring", 
+                     395.62, 
+                     396.04
+                  ], 
+                  [
+                     "in", 
+                     396.04, 
+                     396.12
+                  ], 
+                  [
+                     "rank", 
+                     396.12, 
+                     396.39
+                  ]
+               ], 
+               "confidence": 0.778, 
+               "transcript": "Watson estimates its confidence based on how high the responses redid during evidence scoring in rank "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "in", 
+                     396.91, 
+                     397.05
+                  ], 
+                  [
+                     "essence", 
+                     397.05, 
+                     397.55
+                  ], 
+                  [
+                     "Watson", 
+                     397.58, 
+                     397.93
+                  ], 
+                  [
+                     "is", 
+                     397.93, 
+                     398.06
+                  ], 
+                  [
+                     "able", 
+                     398.06, 
+                     398.28
+                  ], 
+                  [
+                     "to", 
+                     398.28, 
+                     398.35
+                  ], 
+                  [
+                     "run", 
+                     398.35, 
+                     398.59
+                  ], 
+                  [
+                     "analytics", 
+                     398.59, 
+                     399.17
+                  ], 
+                  [
+                     "against", 
+                     399.17, 
+                     399.47
+                  ], 
+                  [
+                     "a", 
+                     399.47, 
+                     399.51
+                  ], 
+                  [
+                     "body", 
+                     399.51, 
+                     399.83
+                  ], 
+                  [
+                     "of", 
+                     399.83, 
+                     399.95
+                  ], 
+                  [
+                     "data", 
+                     399.95, 
+                     400.29
+                  ], 
+                  [
+                     "to", 
+                     400.29, 
+                     400.44
+                  ], 
+                  [
+                     "glean", 
+                     400.44, 
+                     400.7
+                  ], 
+                  [
+                     "insights", 
+                     400.7, 
+                     401.37
+                  ], 
+                  [
+                     "which", 
+                     401.42, 
+                     401.62
+                  ], 
+                  [
+                     "Watson", 
+                     401.62, 
+                     401.96
+                  ], 
+                  [
+                     "can", 
+                     401.96, 
+                     402.08
+                  ], 
+                  [
+                     "turn", 
+                     402.08, 
+                     402.3
+                  ], 
+                  [
+                     "into", 
+                     402.3, 
+                     402.5
+                  ], 
+                  [
+                     "inspirations", 
+                     402.5, 
+                     403.26
+                  ]
+               ], 
+               "confidence": 0.918, 
+               "transcript": "in essence Watson is able to run analytics against a body of data to glean insights which Watson can turn into inspirations "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "allowing", 
+                     403.48, 
+                     403.99
+                  ], 
+                  [
+                     "human", 
+                     403.99, 
+                     404.29
+                  ], 
+                  [
+                     "experts", 
+                     404.29, 
+                     404.71
+                  ], 
+                  [
+                     "to", 
+                     404.71, 
+                     404.81
+                  ], 
+                  [
+                     "make", 
+                     404.81, 
+                     405.01
+                  ], 
+                  [
+                     "better", 
+                     405.01, 
+                     405.33
+                  ], 
+                  [
+                     "and", 
+                     405.33, 
+                     405.55
+                  ], 
+                  [
+                     "more", 
+                     405.55, 
+                     405.74
+                  ], 
+                  [
+                     "informed", 
+                     405.74, 
+                     406.23
+                  ], 
+                  [
+                     "decisions", 
+                     406.23, 
+                     406.83
+                  ]
+               ], 
+               "confidence": 0.974, 
+               "transcript": "allowing human experts to make better and more informed decisions "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "across", 
+                     407.18, 
+                     407.6
+                  ], 
+                  [
+                     "an", 
+                     407.6, 
+                     407.69
+                  ], 
+                  [
+                     "organization", 
+                     407.69, 
+                     408.56
+                  ], 
+                  [
+                     "Watson", 
+                     408.62, 
+                     409.02
+                  ], 
+                  [
+                     "scales", 
+                     409.02, 
+                     409.53
+                  ], 
+                  [
+                     "and", 
+                     409.53, 
+                     409.65
+                  ], 
+                  [
+                     "democratize", 
+                     409.65, 
+                     410.32
+                  ], 
+                  [
+                     "sex", 
+                     410.32, 
+                     410.62
+                  ]
+               ], 
+               "confidence": 0.828, 
+               "transcript": "across an organization Watson scales and democratize sex "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "tease", 
+                     410.75, 
+                     411.26
+                  ], 
+                  [
+                     "by", 
+                     411.29, 
+                     411.41
+                  ], 
+                  [
+                     "surfacing", 
+                     411.41, 
+                     411.99
+                  ], 
+                  [
+                     "accurate", 
+                     411.99, 
+                     412.42
+                  ], 
+                  [
+                     "responses", 
+                     412.42, 
+                     413.14
+                  ], 
+                  [
+                     "and", 
+                     413.17, 
+                     413.33
+                  ], 
+                  [
+                     "answers", 
+                     413.33, 
+                     413.78
+                  ], 
+                  [
+                     "to", 
+                     413.78, 
+                     413.9
+                  ], 
+                  [
+                     "an", 
+                     413.9, 
+                     413.96
+                  ], 
+                  [
+                     "inquiry", 
+                     413.96, 
+                     414.46
+                  ], 
+                  [
+                     "or", 
+                     414.46, 
+                     414.66
+                  ]
+               ], 
+               "confidence": 0.866, 
+               "transcript": "tease by surfacing accurate responses and answers to an inquiry or "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Watson", 
+                     415.35, 
+                     415.7
+                  ], 
+                  [
+                     "also", 
+                     415.7, 
+                     416.12
+                  ], 
+                  [
+                     "accelerates", 
+                     416.12, 
+                     416.74
+                  ], 
+                  [
+                     "act", 
+                     416.74, 
+                     416.96
+                  ]
+               ], 
+               "confidence": 0.835, 
+               "transcript": "Watson also accelerates act "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "by", 
+                     417.53, 
+                     417.66
+                  ], 
+                  [
+                     "surfacing", 
+                     417.66, 
+                     418.2
+                  ], 
+                  [
+                     "a", 
+                     418.2, 
+                     418.24
+                  ], 
+                  [
+                     "set", 
+                     418.24, 
+                     418.48
+                  ], 
+                  [
+                     "of", 
+                     418.48, 
+                     418.6
+                  ], 
+                  [
+                     "possibilities", 
+                     418.6, 
+                     419.46
+                  ], 
+                  [
+                     "from", 
+                     419.46, 
+                     419.64
+                  ], 
+                  [
+                     "a", 
+                     419.64, 
+                     419.7
+                  ], 
+                  [
+                     "large", 
+                     419.7, 
+                     420.08
+                  ], 
+                  [
+                     "body", 
+                     420.08, 
+                     420.4
+                  ], 
+                  [
+                     "of", 
+                     420.4, 
+                     420.53
+                  ], 
+                  [
+                     "data", 
+                     420.53, 
+                     420.94
+                  ], 
+                  [
+                     "saving", 
+                     421.04, 
+                     421.45
+                  ], 
+                  [
+                     "valuable", 
+                     421.45, 
+                     421.92
+                  ], 
+                  [
+                     "time", 
+                     421.92, 
+                     422.2
+                  ]
+               ], 
+               "confidence": 0.951, 
+               "transcript": "by surfacing a set of possibilities from a large body of data saving valuable time "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "today", 
+                     422.46, 
+                     422.96
+                  ], 
+                  [
+                     "Watson", 
+                     423.0, 
+                     423.36
+                  ], 
+                  [
+                     "is", 
+                     423.36, 
+                     423.5
+                  ], 
+                  [
+                     "revolutionizing", 
+                     423.5, 
+                     424.37
+                  ], 
+                  [
+                     "the", 
+                     424.37, 
+                     424.46
+                  ], 
+                  [
+                     "way", 
+                     424.46, 
+                     424.67
+                  ], 
+                  [
+                     "we", 
+                     424.67, 
+                     424.81
+                  ], 
+                  [
+                     "make", 
+                     424.81, 
+                     425.04
+                  ], 
+                  [
+                     "decisions", 
+                     425.04, 
+                     425.77
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "today Watson is revolutionizing the way we make decisions "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "experts", 
+                     426.36, 
+                     426.83
+                  ], 
+                  [
+                     "and", 
+                     426.86, 
+                     426.99
+                  ], 
+                  [
+                     "share", 
+                     426.99, 
+                     427.33
+                  ], 
+                  [
+                     "expertise", 
+                     427.33, 
+                     427.97
+                  ], 
+                  [
+                     "and", 
+                     427.97, 
+                     428.13
+                  ], 
+                  [
+                     "feels", 
+                     428.13, 
+                     428.56
+                  ], 
+                  [
+                     "as", 
+                     428.59, 
+                     428.73
+                  ]
+               ], 
+               "confidence": 0.817, 
+               "transcript": "experts and share expertise and feels as "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "versus", 
+                     428.86, 
+                     429.4
+                  ], 
+                  [
+                     "la", 
+                     429.4, 
+                     429.87
+                  ]
+               ], 
+               "confidence": 0.553, 
+               "transcript": "versus la "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "medicine", 
+                     430.47, 
+                     431.09
+                  ], 
+                  [
+                     "and", 
+                     431.16, 
+                     431.32
+                  ], 
+                  [
+                     "even", 
+                     431.32, 
+                     431.67
+                  ], 
+                  [
+                     "cooking", 
+                     431.67, 
+                     432.01
+                  ]
+               ], 
+               "confidence": 0.651, 
+               "transcript": "medicine and even cooking "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "further", 
+                     432.36, 
+                     432.88
+                  ], 
+                  [
+                     "Watson", 
+                     433.16, 
+                     433.54
+                  ], 
+                  [
+                     "is", 
+                     433.54, 
+                     433.68
+                  ], 
+                  [
+                     "discovering", 
+                     433.68, 
+                     434.34
+                  ], 
+                  [
+                     "and", 
+                     434.34, 
+                     434.54
+                  ], 
+                  [
+                     "offering", 
+                     434.54, 
+                     435.03
+                  ], 
+                  [
+                     "answers", 
+                     435.03, 
+                     435.48
+                  ], 
+                  [
+                     "and", 
+                     435.48, 
+                     435.62
+                  ], 
+                  [
+                     "Pat", 
+                     435.62, 
+                     435.85
+                  ]
+               ], 
+               "confidence": 0.903, 
+               "transcript": "further Watson is discovering and offering answers and Pat "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "hadn't", 
+                     436.37, 
+                     436.66
+                  ], 
+                  [
+                     "known", 
+                     436.66, 
+                     436.87
+                  ], 
+                  [
+                     "existed", 
+                     436.87, 
+                     437.41
+                  ]
+               ], 
+               "confidence": 0.976, 
+               "transcript": "hadn't known existed "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "faster", 
+                     437.58, 
+                     437.98
+                  ], 
+                  [
+                     "than", 
+                     437.98, 
+                     438.12
+                  ], 
+                  [
+                     "any", 
+                     438.12, 
+                     438.41
+                  ], 
+                  [
+                     "person", 
+                     438.41, 
+                     438.82
+                  ], 
+                  [
+                     "or", 
+                     438.82, 
+                     438.91
+                  ], 
+                  [
+                     "group", 
+                     438.91, 
+                     439.2
+                  ], 
+                  [
+                     "of", 
+                     439.2, 
+                     439.34
+                  ]
+               ], 
+               "confidence": 0.987, 
+               "transcript": "faster than any person or group of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "could", 
+                     440.1, 
+                     440.49
+                  ], 
+                  [
+                     "in", 
+                     440.65, 
+                     440.81
+                  ], 
+                  [
+                     "ways", 
+                     440.81, 
+                     441.13
+                  ], 
+                  [
+                     "that", 
+                     441.13, 
+                     441.26
+                  ], 
+                  [
+                     "make", 
+                     441.26, 
+                     441.47
+                  ], 
+                  [
+                     "a", 
+                     441.47, 
+                     441.51
+                  ], 
+                  [
+                     "material", 
+                     441.51, 
+                     442.02
+                  ], 
+                  [
+                     "difference", 
+                     442.02, 
+                     442.41
+                  ]
+               ], 
+               "confidence": 0.862, 
+               "transcript": "could in ways that make a material difference "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     443.12, 
+                     443.19
+                  ], 
+                  [
+                     "day", 
+                     443.19, 
+                     443.54
+                  ]
+               ], 
+               "confidence": 0.878, 
+               "transcript": "the day "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "most", 
+                     443.85, 
+                     444.16
+                  ], 
+                  [
+                     "important", 
+                     444.16, 
+                     444.62
+                  ], 
+                  [
+                     "of", 
+                     444.62, 
+                     444.73
+                  ], 
+                  [
+                     "all", 
+                     444.73, 
+                     445.05
+                  ], 
+                  [
+                     "Watson", 
+                     445.16, 
+                     445.54
+                  ], 
+                  [
+                     "learns", 
+                     445.54, 
+                     446.19
+                  ]
+               ], 
+               "confidence": 0.904, 
+               "transcript": "most important of all Watson learns "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it's", 
+                     447.42, 
+                     447.51
+                  ], 
+                  [
+                     "getting", 
+                     447.51, 
+                     447.8
+                  ], 
+                  [
+                     "smarter", 
+                     447.8, 
+                     448.38
+                  ], 
+                  [
+                     "it", 
+                     448.5, 
+                     448.63
+                  ], 
+                  [
+                     "actually", 
+                     448.66, 
+                     449.1
+                  ], 
+                  [
+                     "gains", 
+                     449.1, 
+                     449.55
+                  ], 
+                  [
+                     "value", 
+                     449.55, 
+                     449.95
+                  ], 
+                  [
+                     "with", 
+                     449.95, 
+                     450.13
+                  ], 
+                  [
+                     "age", 
+                     450.13, 
+                     450.62
+                  ], 
+                  [
+                     "by", 
+                     450.68, 
+                     450.82
+                  ], 
+                  [
+                     "learning", 
+                     450.82, 
+                     451.17
+                  ], 
+                  [
+                     "from", 
+                     451.17, 
+                     451.39
+                  ], 
+                  [
+                     "its", 
+                     451.39, 
+                     451.53
+                  ], 
+                  [
+                     "in", 
+                     451.53, 
+                     451.63
+                  ]
+               ], 
+               "confidence": 0.869, 
+               "transcript": "it's getting smarter it actually gains value with age by learning from its in "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "is", 
+                     452.08, 
+                     452.17
+                  ], 
+                  [
+                     "with", 
+                     452.17, 
+                     452.4
+                  ], 
+                  [
+                     "us", 
+                     452.4, 
+                     452.59
+                  ]
+               ], 
+               "confidence": 0.864, 
+               "transcript": "is with us "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "from", 
+                     452.98, 
+                     453.18
+                  ], 
+                  [
+                     "its", 
+                     453.18, 
+                     453.33
+                  ], 
+                  [
+                     "own", 
+                     453.33, 
+                     453.54
+                  ], 
+                  [
+                     "success", 
+                     453.54, 
+                     453.87
+                  ]
+               ], 
+               "confidence": 0.949, 
+               "transcript": "from its own success "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Susan", 
+                     453.96, 
+                     454.21
+                  ], 
+                  [
+                     "failures", 
+                     454.21, 
+                     454.84
+                  ]
+               ], 
+               "confidence": 0.726, 
+               "transcript": "Susan failures "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "like", 
+                     455.35, 
+                     455.62
+                  ], 
+                  [
+                     "we", 
+                     455.62, 
+                     455.77
+                  ], 
+                  [
+                     "do", 
+                     455.77, 
+                     456.04
+                  ]
+               ], 
+               "confidence": 0.919, 
+               "transcript": "like we do "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "so", 
+                     456.36, 
+                     456.85
+                  ], 
+                  [
+                     "now", 
+                     457.01, 
+                     457.23
+                  ], 
+                  [
+                     "that", 
+                     457.23, 
+                     457.4
+                  ], 
+                  [
+                     "you", 
+                     457.4, 
+                     457.49
+                  ], 
+                  [
+                     "know", 
+                     457.49, 
+                     457.64
+                  ], 
+                  [
+                     "how", 
+                     457.64, 
+                     457.83
+                  ], 
+                  [
+                     "it", 
+                     457.83, 
+                     457.95
+                  ], 
+                  [
+                     "works", 
+                     457.95, 
+                     458.44
+                  ]
+               ], 
+               "confidence": 0.973, 
+               "transcript": "so now that you know how it works "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "how", 
+                     458.6, 
+                     458.79
+                  ], 
+                  [
+                     "do", 
+                     458.79, 
+                     458.9
+                  ], 
+                  [
+                     "these", 
+                     458.9, 
+                     459.17
+                  ], 
+                  [
+                     "ideas", 
+                     459.17, 
+                     459.57
+                  ], 
+                  [
+                     "inspire", 
+                     459.57, 
+                     460.04
+                  ], 
+                  [
+                     "how", 
+                     460.04, 
+                     460.16
+                  ], 
+                  [
+                     "you", 
+                     460.16, 
+                     460.42
+                  ], 
+                  [
+                     "work", 
+                     460.42, 
+                     460.83
+                  ], 
+                  [
+                     "how", 
+                     460.91, 
+                     461.09
+                  ], 
+                  [
+                     "can", 
+                     461.09, 
+                     461.27
+                  ], 
+                  [
+                     "Watson", 
+                     461.27, 
+                     461.69
+                  ], 
+                  [
+                     "make", 
+                     461.69, 
+                     461.99
+                  ], 
+                  [
+                     "you", 
+                     461.99, 
+                     462.12
+                  ], 
+                  [
+                     "a", 
+                     462.12, 
+                     462.18
+                  ], 
+                  [
+                     "better", 
+                     462.18, 
+                     462.48
+                  ], 
+                  [
+                     "acts", 
+                     462.48, 
+                     462.77
+                  ]
+               ], 
+               "confidence": 0.922, 
+               "transcript": "how do these ideas inspire how you work how can Watson make you a better acts "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "what", 
+                     463.37, 
+                     463.53
+                  ], 
+                  [
+                     "will", 
+                     463.53, 
+                     463.65
+                  ], 
+                  [
+                     "you", 
+                     463.65, 
+                     463.94
+                  ], 
+                  [
+                     "do", 
+                     463.94, 
+                     464.16
+                  ]
+               ], 
+               "confidence": 0.924, 
+               "transcript": "what will you do "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "mmhm", 
+                     465.28, 
+                     468.28
+                  ]
+               ], 
+               "confidence": 0.771, 
+               "transcript": "mmhm "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}

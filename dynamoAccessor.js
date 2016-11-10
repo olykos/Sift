@@ -21,8 +21,6 @@ function writeItem(url) {
   var data = require('./response.json');
   var table = "SiftDB";
 
-  console.log(url);
-
   var params = {
     TableName:table,
     Item:{
