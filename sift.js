@@ -35,7 +35,7 @@ function findAllOccurences(url, word) {
         console.log('No record for this url (' + url +')');
       } else {
         var arr = getWordArr(data.Item.json, word);
-        console.log(arr);
+        printResults(arr, url, word);
       }
     }
   });
@@ -54,4 +54,18 @@ function getWordArr(json, word) {
     }
   }
   return returnArr;
+}
+
+
+function printResults(arr, url, word) {
+
+  if (arr.length == 0) {
+    console.log("Word not found.");
+  } else {
+    console.log("Here are links to all the parts of the video the word " + word + " occured:");
+  }
+
+  arr.forEach(function(element) {
+    console.log(url + "&t=" + Math.floor(element[1]/60) + "m" + Math.floor(element[1]%60) + "s");
+  });
 }
