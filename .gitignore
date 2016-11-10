@@ -1,5 +1,4 @@
 *.docx
 node_modules/
 *.wav
-*.json
 
