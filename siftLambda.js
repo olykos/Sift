@@ -1,19 +1,19 @@
-var AWS = require("aws-sdk");
+'use strict';
 
-var url = process.argv[2];
-var word = process.argv[3];
+console.log('Loading function');
 
-if (url === null || word === null) {
-  console.error("Usage: node sift.js 'url' 'word'");
-  process.exit(1);
-}
+const AWS = require('aws-sdk');
 
-AWS.config.update({
-  region: "us-east-1",
-  endpoint: "https://dynamodb.us-east-1.amazonaws.com"
-});
+exports.handler = (event, context, callback) => {
 
-var docClient = new AWS.DynamoDB.DocumentClient()
+var params = event.params;
+var url = params.url;
+var word = params.word;
+
+console.log(url + ", " + word);
+
+var doc = require('dynamodb-doc');
+var dynamoDB = new doc.DynamoDB();
 
 findAllOccurences(url, word);
 
@@ -27,7 +27,7 @@ function findAllOccurences(url, word) {
     }
   };
 
-  docClient.get(params, function(err, data) {
+  dynamoDB.getItem(params, function(err, data) {
     if (err) {
       console.error("Unable to read item. Error JSON:", JSON.stringify(err, null, 2));
     } else {
@@ -35,7 +35,9 @@ function findAllOccurences(url, word) {
         console.log('No record for this url (' + url +')');
       } else {
         var arr = getWordArr(data.Item.json, word);
-        printResults(arr, url, word);
+        var returnArr = createResultsArray(arr, url, word);
+        callback(null, returnArr);
+        console.log(returnArr);
       }
     }
   });
@@ -57,15 +59,19 @@ function getWordArr(json, word) {
 }
 
 
-function printResults(arr, url, word) {
+function createResultsArray(arr, url, word) {
+
+  var returnArr = [];
 
   if (arr.length === 0) {
     console.log("Word not found.");
-  } else {
-    console.log("Here are links to all the parts of the video the word " + word + " occured:");
+    return returnArr;
   }
-
   arr.forEach(function(element) {
-    console.log(url + "&t=" + Math.floor(element[1]/60) + "m" + Math.floor(element[1]%60) + "s");
+    returnArr.push(url + "&t=" + Math.floor(element[1]/60) + "m" + Math.floor(element[1]%60) + "s");
   });
+
+  return returnArr;
 }
+
+};
