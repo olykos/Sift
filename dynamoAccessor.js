@@ -1,5 +1,12 @@
 var AWS = require("aws-sdk");
 
+url = process.argv[2];
+
+if (url == null) {
+  console.error("Error: no url argument specified");
+  process.exit(1);
+}
+
 AWS.config.update({
   region: "us-east-1",
   endpoint: "https://dynamodb.us-east-1.amazonaws.com"
@@ -7,12 +14,33 @@ AWS.config.update({
 
 var docClient = new AWS.DynamoDB.DocumentClient()
 
-// writeTestItem();
-getTestItem();
+writeItem(url);
+// findAllOccurences(url, "the");
 
-function getTestItem() {
+function writeItem(url) {
+  var data = require('./response.json');
   var table = "SiftDB";
-  var url = "https://www.youtube.com/watch?v=RWsx1X8PV_A";
+
+  console.log(url);
+
+  var params = {
+    TableName:table,
+    Item:{
+      "url": url,
+      "json": data,
+    }
+  };
+
+  docClient.put(params, function(err, data) {
+    if (err) {
+      console.error("Unable to add item. Error JSON:", JSON.stringify(err, null, 2));
+    }
+  });
+}
+
+//Not necessarily needed in the end - could move to Chrome plugin side
+function findAllOccurences(url, word) {
+  var table = "SiftDB";
 
   var params = {
     TableName: table,
@@ -25,40 +53,13 @@ function getTestItem() {
     if (err) {
       console.error("Unable to read item. Error JSON:", JSON.stringify(err, null, 2));
     } else {
-      // console.log("GetItem succeeded:", JSON.stringify(data, null, 2));
-
-      var arr = search(data.Item.json, "the");
+      var arr = getWordArr(data.Item.json, word);
       console.log(arr);
-
     }
   });
 }
 
-function writeTestItem() {
-  var data = require('./response.json');
-  var table = "SiftDB";
-
-  var url = "https://www.youtube.com/watch?v=RWsx1X8PV_A";
-
-  var params = {
-    TableName:table,
-    Item:{
-      "url": url,
-      "json": data,
-    }
-  };
-
-  console.log("Adding a new item...");
-  docClient.put(params, function(err, data) {
-    if (err) {
-      console.error("Unable to add item. Error JSON:", JSON.stringify(err, null, 2));
-    } else {
-      console.log("Added item:", JSON.stringify(data, null, 2));
-    }
-  });
-}
-
-function search(json, word) {
+function getWordArr(json, word) {
   var returnArr = [];
 
   for (r = 0; r < json.results.length; r++) {
